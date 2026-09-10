@@ -1,0 +1,1204 @@
+{
+  "changes": [
+    {
+      "change_id": "CHG-2026-0001",
+      "device_id": "EDGE-PES-071",
+      "site_id": "POP-PES-01",
+      "start": "2026-01-10T04:00:00",
+      "duration_minutes": 103,
+      "change_type": "BGP-policy",
+      "status": "approved",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0002",
+      "device_id": "RR-LAH-057",
+      "site_id": "POP-LAH-02",
+      "start": "2026-04-10T10:00:00",
+      "duration_minutes": 116,
+      "change_type": "software-upgrade",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0003",
+      "device_id": "BNG-MUL-064",
+      "site_id": "POP-MUL-02",
+      "start": "2026-02-17T12:00:00",
+      "duration_minutes": 91,
+      "change_type": "optical-maintenance",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0004",
+      "device_id": "P-KAR-020",
+      "site_id": "POP-KAR-03",
+      "start": "2026-09-02T03:00:00",
+      "duration_minutes": 64,
+      "change_type": "QoS-change",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0005",
+      "device_id": "PE-LAH-077",
+      "site_id": "POP-LAH-02",
+      "start": "2026-06-13T13:00:00",
+      "duration_minutes": 84,
+      "change_type": "QoS-change",
+      "status": "approved",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0006",
+      "device_id": "RR-FAI-054",
+      "site_id": "POP-FAI-01",
+      "start": "2026-07-05T13:00:00",
+      "duration_minutes": 14,
+      "change_type": "ACL-change",
+      "status": "approved",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0007",
+      "device_id": "PE-LAH-077",
+      "site_id": "POP-LAH-02",
+      "start": "2026-08-06T19:00:00",
+      "duration_minutes": 20,
+      "change_type": "software-upgrade",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0008",
+      "device_id": "PE-PES-046",
+      "site_id": "POP-PES-01",
+      "start": "2026-02-26T18:00:00",
+      "duration_minutes": 92,
+      "change_type": "hardware-replacement",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0009",
+      "device_id": "BNG-FAI-052",
+      "site_id": "POP-FAI-01",
+      "start": "2026-04-24T04:00:00",
+      "duration_minutes": 111,
+      "change_type": "QoS-change",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0010",
+      "device_id": "P-MUL-013",
+      "site_id": "POP-MUL-01",
+      "start": "2026-03-30T07:00:00",
+      "duration_minutes": 38,
+      "change_type": "link-migration",
+      "status": "approved",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0011",
+      "device_id": "EDGE-KAR-072",
+      "site_id": "POP-KAR-03",
+      "start": "2026-07-18T03:00:00",
+      "duration_minutes": 98,
+      "change_type": "hardware-replacement",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0012",
+      "device_id": "EDGE-RAW-048",
+      "site_id": "POP-RAW-02",
+      "start": "2026-05-14T12:00:00",
+      "duration_minutes": 69,
+      "change_type": "hardware-replacement",
+      "status": "approved",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0013",
+      "device_id": "P-KAR-020",
+      "site_id": "POP-KAR-03",
+      "start": "2026-04-28T17:00:00",
+      "duration_minutes": 13,
+      "change_type": "BGP-policy",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0014",
+      "device_id": "RR-FAI-054",
+      "site_id": "POP-FAI-01",
+      "start": "2026-01-30T07:00:00",
+      "duration_minutes": 24,
+      "change_type": "interface-change",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0015",
+      "device_id": "BNG-RAW-044",
+      "site_id": "POP-RAW-01",
+      "start": "2026-06-05T10:00:00",
+      "duration_minutes": 110,
+      "change_type": "SNMP-monitoring",
+      "status": "approved",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0016",
+      "device_id": "RR-LAH-045",
+      "site_id": "POP-LAH-01",
+      "start": "2026-06-12T12:00:00",
+      "duration_minutes": 22,
+      "change_type": "BGP-policy",
+      "status": "approved",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0017",
+      "device_id": "P-FAI-058",
+      "site_id": "POP-FAI-01",
+      "start": "2026-04-19T20:00:00",
+      "duration_minutes": 18,
+      "change_type": "optical-maintenance",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0018",
+      "device_id": "PE-ISL-015",
+      "site_id": "POP-ISL-01",
+      "start": "2026-01-08T17:00:00",
+      "duration_minutes": 118,
+      "change_type": "ACL-change",
+      "status": "approved",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0019",
+      "device_id": "EDGE-RAW-022",
+      "site_id": "POP-RAW-03",
+      "start": "2026-03-25T06:00:00",
+      "duration_minutes": 76,
+      "change_type": "interface-change",
+      "status": "approved",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0020",
+      "device_id": "P-KAR-043",
+      "site_id": "POP-KAR-03",
+      "start": "2026-07-11T02:00:00",
+      "duration_minutes": 64,
+      "change_type": "BGP-policy",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0021",
+      "device_id": "PE-ISL-024",
+      "site_id": "POP-ISL-01",
+      "start": "2026-03-05T14:00:00",
+      "duration_minutes": 91,
+      "change_type": "QoS-change",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0022",
+      "device_id": "PE-FAI-079",
+      "site_id": "POP-FAI-01",
+      "start": "2026-03-09T08:00:00",
+      "duration_minutes": 67,
+      "change_type": "hardware-replacement",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0023",
+      "device_id": "PE-MUL-001",
+      "site_id": "POP-MUL-02",
+      "start": "2026-08-29T13:00:00",
+      "duration_minutes": 37,
+      "change_type": "SNMP-monitoring",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0024",
+      "device_id": "RR-ISL-009",
+      "site_id": "POP-ISL-03",
+      "start": "2026-07-17T01:00:00",
+      "duration_minutes": 23,
+      "change_type": "link-migration",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0025",
+      "device_id": "PE-RAW-042",
+      "site_id": "POP-RAW-03",
+      "start": "2026-03-09T06:00:00",
+      "duration_minutes": 68,
+      "change_type": "software-upgrade",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0026",
+      "device_id": "P-MUL-063",
+      "site_id": "POP-MUL-02",
+      "start": "2026-06-30T03:00:00",
+      "duration_minutes": 91,
+      "change_type": "ACL-change",
+      "status": "approved",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0027",
+      "device_id": "PE-FAI-079",
+      "site_id": "POP-FAI-01",
+      "start": "2026-05-14T23:00:00",
+      "duration_minutes": 85,
+      "change_type": "software-upgrade",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0028",
+      "device_id": "PE-KAR-059",
+      "site_id": "POP-KAR-02",
+      "start": "2026-07-30T17:00:00",
+      "duration_minutes": 32,
+      "change_type": "optical-maintenance",
+      "status": "approved",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0029",
+      "device_id": "PE-PES-011",
+      "site_id": "POP-PES-01",
+      "start": "2026-08-18T09:00:00",
+      "duration_minutes": 27,
+      "change_type": "ACL-change",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0030",
+      "device_id": "PE-MUL-040",
+      "site_id": "POP-MUL-02",
+      "start": "2026-02-09T22:00:00",
+      "duration_minutes": 33,
+      "change_type": "ACL-change",
+      "status": "approved",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0031",
+      "device_id": "BNG-RAW-066",
+      "site_id": "POP-RAW-03",
+      "start": "2026-05-13T14:00:00",
+      "duration_minutes": 63,
+      "change_type": "hardware-replacement",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0032",
+      "device_id": "PE-KAR-050",
+      "site_id": "POP-KAR-02",
+      "start": "2026-05-25T09:00:00",
+      "duration_minutes": 33,
+      "change_type": "BGP-policy",
+      "status": "approved",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0033",
+      "device_id": "RR-PES-023",
+      "site_id": "POP-PES-01",
+      "start": "2026-07-09T09:00:00",
+      "duration_minutes": 31,
+      "change_type": "BGP-policy",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0034",
+      "device_id": "PE-ISL-024",
+      "site_id": "POP-ISL-01",
+      "start": "2026-04-18T09:00:00",
+      "duration_minutes": 117,
+      "change_type": "BGP-policy",
+      "status": "approved",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0035",
+      "device_id": "PE-PES-046",
+      "site_id": "POP-PES-01",
+      "start": "2026-01-04T06:00:00",
+      "duration_minutes": 72,
+      "change_type": "interface-change",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0036",
+      "device_id": "EDGE-KAR-072",
+      "site_id": "POP-KAR-03",
+      "start": "2026-06-22T12:00:00",
+      "duration_minutes": 93,
+      "change_type": "BGP-policy",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0037",
+      "device_id": "P-MUL-063",
+      "site_id": "POP-MUL-02",
+      "start": "2026-05-22T20:00:00",
+      "duration_minutes": 100,
+      "change_type": "BGP-policy",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0038",
+      "device_id": "PE-PES-011",
+      "site_id": "POP-PES-01",
+      "start": "2026-07-12T23:00:00",
+      "duration_minutes": 13,
+      "change_type": "SNMP-monitoring",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0039",
+      "device_id": "RR-LAH-036",
+      "site_id": "POP-LAH-03",
+      "start": "2026-03-18T17:00:00",
+      "duration_minutes": 78,
+      "change_type": "optical-maintenance",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0040",
+      "device_id": "PE-KAR-073",
+      "site_id": "POP-KAR-03",
+      "start": "2026-06-19T01:00:00",
+      "duration_minutes": 80,
+      "change_type": "link-migration",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0041",
+      "device_id": "PE-ISL-015",
+      "site_id": "POP-ISL-01",
+      "start": "2026-04-02T10:00:00",
+      "duration_minutes": 109,
+      "change_type": "link-migration",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0042",
+      "device_id": "PE-RAW-006",
+      "site_id": "POP-RAW-02",
+      "start": "2026-09-03T09:00:00",
+      "duration_minutes": 66,
+      "change_type": "link-migration",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0043",
+      "device_id": "EDGE-RAW-014",
+      "site_id": "POP-RAW-02",
+      "start": "2026-08-12T02:00:00",
+      "duration_minutes": 106,
+      "change_type": "SNMP-monitoring",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0044",
+      "device_id": "P-FAI-058",
+      "site_id": "POP-FAI-01",
+      "start": "2026-03-31T16:00:00",
+      "duration_minutes": 54,
+      "change_type": "software-upgrade",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0045",
+      "device_id": "EDGE-MUL-031",
+      "site_id": "POP-MUL-02",
+      "start": "2026-03-13T15:00:00",
+      "duration_minutes": 113,
+      "change_type": "hardware-replacement",
+      "status": "approved",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0046",
+      "device_id": "PE-FAI-079",
+      "site_id": "POP-FAI-01",
+      "start": "2026-08-04T23:00:00",
+      "duration_minutes": 64,
+      "change_type": "interface-change",
+      "status": "approved",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0047",
+      "device_id": "P-ISL-027",
+      "site_id": "POP-ISL-01",
+      "start": "2026-03-12T15:00:00",
+      "duration_minutes": 113,
+      "change_type": "routing-policy",
+      "status": "approved",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0048",
+      "device_id": "BNG-ISL-069",
+      "site_id": "POP-ISL-01",
+      "start": "2026-04-06T22:00:00",
+      "duration_minutes": 86,
+      "change_type": "link-migration",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0049",
+      "device_id": "P-RAW-038",
+      "site_id": "POP-RAW-01",
+      "start": "2026-04-09T18:00:00",
+      "duration_minutes": 83,
+      "change_type": "optical-maintenance",
+      "status": "approved",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0050",
+      "device_id": "P-MUL-013",
+      "site_id": "POP-MUL-01",
+      "start": "2026-02-16T06:00:00",
+      "duration_minutes": 106,
+      "change_type": "QoS-change",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0051",
+      "device_id": "PE-MUL-017",
+      "site_id": "POP-MUL-02",
+      "start": "2026-08-28T10:00:00",
+      "duration_minutes": 120,
+      "change_type": "interface-change",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0052",
+      "device_id": "PE-RAW-042",
+      "site_id": "POP-RAW-03",
+      "start": "2026-03-26T11:00:00",
+      "duration_minutes": 107,
+      "change_type": "QoS-change",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0053",
+      "device_id": "PE-KAR-074",
+      "site_id": "POP-KAR-02",
+      "start": "2026-08-04T20:00:00",
+      "duration_minutes": 44,
+      "change_type": "QoS-change",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0054",
+      "device_id": "RR-LAH-010",
+      "site_id": "POP-LAH-01",
+      "start": "2026-08-05T06:00:00",
+      "duration_minutes": 111,
+      "change_type": "software-upgrade",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0055",
+      "device_id": "RR-LAH-036",
+      "site_id": "POP-LAH-03",
+      "start": "2026-08-26T03:00:00",
+      "duration_minutes": 57,
+      "change_type": "BGP-policy",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0056",
+      "device_id": "PE-MUL-075",
+      "site_id": "POP-MUL-01",
+      "start": "2026-01-01T20:00:00",
+      "duration_minutes": 109,
+      "change_type": "software-upgrade",
+      "status": "approved",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0057",
+      "device_id": "PE-PES-046",
+      "site_id": "POP-PES-01",
+      "start": "2026-01-22T14:00:00",
+      "duration_minutes": 111,
+      "change_type": "link-migration",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0058",
+      "device_id": "BNG-KAR-055",
+      "site_id": "POP-KAR-03",
+      "start": "2026-03-14T07:00:00",
+      "duration_minutes": 73,
+      "change_type": "optical-maintenance",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0059",
+      "device_id": "BNG-RAW-044",
+      "site_id": "POP-RAW-01",
+      "start": "2026-07-06T19:00:00",
+      "duration_minutes": 83,
+      "change_type": "interface-change",
+      "status": "approved",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0060",
+      "device_id": "BNG-RAW-044",
+      "site_id": "POP-RAW-01",
+      "start": "2026-08-21T23:00:00",
+      "duration_minutes": 107,
+      "change_type": "routing-policy",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0061",
+      "device_id": "PE-KAR-059",
+      "site_id": "POP-KAR-02",
+      "start": "2026-01-06T13:00:00",
+      "duration_minutes": 25,
+      "change_type": "interface-change",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0062",
+      "device_id": "PE-MUL-001",
+      "site_id": "POP-MUL-02",
+      "start": "2026-05-27T00:00:00",
+      "duration_minutes": 35,
+      "change_type": "interface-change",
+      "status": "approved",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0063",
+      "device_id": "BNG-MUL-021",
+      "site_id": "POP-MUL-01",
+      "start": "2026-04-04T12:00:00",
+      "duration_minutes": 21,
+      "change_type": "ACL-change",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0064",
+      "device_id": "EDGE-RAW-048",
+      "site_id": "POP-RAW-02",
+      "start": "2026-08-15T19:00:00",
+      "duration_minutes": 93,
+      "change_type": "interface-change",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0065",
+      "device_id": "PE-MUL-040",
+      "site_id": "POP-MUL-02",
+      "start": "2026-09-05T19:00:00",
+      "duration_minutes": 99,
+      "change_type": "SNMP-monitoring",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0066",
+      "device_id": "PE-ISL-012",
+      "site_id": "POP-ISL-02",
+      "start": "2026-08-29T04:00:00",
+      "duration_minutes": 22,
+      "change_type": "routing-policy",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0067",
+      "device_id": "RR-LAH-010",
+      "site_id": "POP-LAH-01",
+      "start": "2026-02-15T07:00:00",
+      "duration_minutes": 85,
+      "change_type": "SNMP-monitoring",
+      "status": "approved",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0068",
+      "device_id": "RR-LAH-057",
+      "site_id": "POP-LAH-02",
+      "start": "2026-01-04T04:00:00",
+      "duration_minutes": 11,
+      "change_type": "ACL-change",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0069",
+      "device_id": "PE-MUL-017",
+      "site_id": "POP-MUL-02",
+      "start": "2026-06-13T01:00:00",
+      "duration_minutes": 19,
+      "change_type": "SNMP-monitoring",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0070",
+      "device_id": "EDGE-RAW-014",
+      "site_id": "POP-RAW-02",
+      "start": "2026-02-05T05:00:00",
+      "duration_minutes": 50,
+      "change_type": "ACL-change",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0071",
+      "device_id": "EDGE-MUL-049",
+      "site_id": "POP-MUL-03",
+      "start": "2026-02-15T10:00:00",
+      "duration_minutes": 92,
+      "change_type": "interface-change",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0072",
+      "device_id": "PE-KAR-073",
+      "site_id": "POP-KAR-03",
+      "start": "2026-01-03T21:00:00",
+      "duration_minutes": 88,
+      "change_type": "interface-change",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0073",
+      "device_id": "PE-ISL-028",
+      "site_id": "POP-ISL-02",
+      "start": "2026-08-03T09:00:00",
+      "duration_minutes": 105,
+      "change_type": "interface-change",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0074",
+      "device_id": "RR-LAH-057",
+      "site_id": "POP-LAH-02",
+      "start": "2026-03-16T03:00:00",
+      "duration_minutes": 21,
+      "change_type": "software-upgrade",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0075",
+      "device_id": "P-ISL-076",
+      "site_id": "POP-ISL-03",
+      "start": "2026-09-07T04:00:00",
+      "duration_minutes": 59,
+      "change_type": "ACL-change",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0076",
+      "device_id": "PE-ISL-018",
+      "site_id": "POP-ISL-01",
+      "start": "2026-03-26T13:00:00",
+      "duration_minutes": 45,
+      "change_type": "software-upgrade",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0077",
+      "device_id": "PE-LAH-077",
+      "site_id": "POP-LAH-02",
+      "start": "2026-07-24T19:00:00",
+      "duration_minutes": 102,
+      "change_type": "hardware-replacement",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0078",
+      "device_id": "RR-KAR-004",
+      "site_id": "POP-KAR-03",
+      "start": "2026-08-13T17:00:00",
+      "duration_minutes": 48,
+      "change_type": "SNMP-monitoring",
+      "status": "approved",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0079",
+      "device_id": "BNG-RAW-066",
+      "site_id": "POP-RAW-03",
+      "start": "2026-03-06T09:00:00",
+      "duration_minutes": 105,
+      "change_type": "QoS-change",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0080",
+      "device_id": "PE-LAH-007",
+      "site_id": "POP-LAH-02",
+      "start": "2026-03-23T16:00:00",
+      "duration_minutes": 73,
+      "change_type": "QoS-change",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0081",
+      "device_id": "BNG-MUL-064",
+      "site_id": "POP-MUL-02",
+      "start": "2026-08-06T19:00:00",
+      "duration_minutes": 86,
+      "change_type": "software-upgrade",
+      "status": "approved",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0082",
+      "device_id": "EDGE-PES-047",
+      "site_id": "POP-PES-02",
+      "start": "2026-04-19T00:00:00",
+      "duration_minutes": 26,
+      "change_type": "QoS-change",
+      "status": "approved",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0083",
+      "device_id": "EDGE-PES-047",
+      "site_id": "POP-PES-02",
+      "start": "2026-07-06T11:00:00",
+      "duration_minutes": 97,
+      "change_type": "interface-change",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0084",
+      "device_id": "PE-LAH-003",
+      "site_id": "POP-LAH-01",
+      "start": "2026-07-20T11:00:00",
+      "duration_minutes": 18,
+      "change_type": "routing-policy",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0085",
+      "device_id": "PE-RAW-006",
+      "site_id": "POP-RAW-02",
+      "start": "2026-01-21T15:00:00",
+      "duration_minutes": 111,
+      "change_type": "QoS-change",
+      "status": "approved",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0086",
+      "device_id": "RR-PES-065",
+      "site_id": "POP-PES-01",
+      "start": "2026-05-22T19:00:00",
+      "duration_minutes": 64,
+      "change_type": "QoS-change",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0087",
+      "device_id": "BNG-ISL-069",
+      "site_id": "POP-ISL-01",
+      "start": "2026-07-03T12:00:00",
+      "duration_minutes": 88,
+      "change_type": "interface-change",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0088",
+      "device_id": "PE-MUL-040",
+      "site_id": "POP-MUL-02",
+      "start": "2026-01-27T23:00:00",
+      "duration_minutes": 75,
+      "change_type": "SNMP-monitoring",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0089",
+      "device_id": "PE-RAW-042",
+      "site_id": "POP-RAW-03",
+      "start": "2026-05-14T08:00:00",
+      "duration_minutes": 85,
+      "change_type": "software-upgrade",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0090",
+      "device_id": "RR-KAR-056",
+      "site_id": "POP-KAR-03",
+      "start": "2026-09-07T03:00:00",
+      "duration_minutes": 118,
+      "change_type": "SNMP-monitoring",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0091",
+      "device_id": "PE-ISL-012",
+      "site_id": "POP-ISL-02",
+      "start": "2026-05-29T07:00:00",
+      "duration_minutes": 24,
+      "change_type": "BGP-policy",
+      "status": "approved",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0092",
+      "device_id": "P-MUL-008",
+      "site_id": "POP-MUL-02",
+      "start": "2026-04-16T13:00:00",
+      "duration_minutes": 95,
+      "change_type": "interface-change",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0093",
+      "device_id": "PE-ISL-018",
+      "site_id": "POP-ISL-01",
+      "start": "2026-08-28T10:00:00",
+      "duration_minutes": 11,
+      "change_type": "interface-change",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0094",
+      "device_id": "EDGE-LAH-067",
+      "site_id": "POP-LAH-03",
+      "start": "2026-06-26T13:00:00",
+      "duration_minutes": 110,
+      "change_type": "optical-maintenance",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0095",
+      "device_id": "PE-MUL-017",
+      "site_id": "POP-MUL-02",
+      "start": "2026-04-02T17:00:00",
+      "duration_minutes": 103,
+      "change_type": "software-upgrade",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0096",
+      "device_id": "BNG-KAR-055",
+      "site_id": "POP-KAR-03",
+      "start": "2026-04-03T20:00:00",
+      "duration_minutes": 77,
+      "change_type": "software-upgrade",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0097",
+      "device_id": "PE-KAR-074",
+      "site_id": "POP-KAR-02",
+      "start": "2026-08-03T04:00:00",
+      "duration_minutes": 19,
+      "change_type": "BGP-policy",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0098",
+      "device_id": "EDGE-PES-047",
+      "site_id": "POP-PES-02",
+      "start": "2026-01-19T22:00:00",
+      "duration_minutes": 73,
+      "change_type": "hardware-replacement",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0099",
+      "device_id": "BNG-MUL-021",
+      "site_id": "POP-MUL-01",
+      "start": "2026-03-29T01:00:00",
+      "duration_minutes": 108,
+      "change_type": "software-upgrade",
+      "status": "approved",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0100",
+      "device_id": "PE-ISL-015",
+      "site_id": "POP-ISL-01",
+      "start": "2026-03-19T23:00:00",
+      "duration_minutes": 104,
+      "change_type": "link-migration",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0101",
+      "device_id": "PE-MUL-002",
+      "site_id": "POP-MUL-03",
+      "start": "2026-03-25T11:00:00",
+      "duration_minutes": 15,
+      "change_type": "BGP-policy",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0102",
+      "device_id": "P-KAR-020",
+      "site_id": "POP-KAR-03",
+      "start": "2026-03-03T02:00:00",
+      "duration_minutes": 119,
+      "change_type": "routing-policy",
+      "status": "approved",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0103",
+      "device_id": "RR-FAI-054",
+      "site_id": "POP-FAI-01",
+      "start": "2026-03-18T15:00:00",
+      "duration_minutes": 51,
+      "change_type": "SNMP-monitoring",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0104",
+      "device_id": "RR-LAH-041",
+      "site_id": "POP-LAH-03",
+      "start": "2026-04-03T14:00:00",
+      "duration_minutes": 115,
+      "change_type": "software-upgrade",
+      "status": "approved",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0105",
+      "device_id": "PE-ISL-016",
+      "site_id": "POP-ISL-01",
+      "start": "2026-06-21T08:00:00",
+      "duration_minutes": 96,
+      "change_type": "routing-policy",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0106",
+      "device_id": "EDGE-LAH-067",
+      "site_id": "POP-LAH-03",
+      "start": "2026-01-16T16:00:00",
+      "duration_minutes": 61,
+      "change_type": "software-upgrade",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0107",
+      "device_id": "PE-MUL-040",
+      "site_id": "POP-MUL-02",
+      "start": "2026-04-22T17:00:00",
+      "duration_minutes": 21,
+      "change_type": "link-migration",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0108",
+      "device_id": "EDGE-RAW-048",
+      "site_id": "POP-RAW-02",
+      "start": "2026-03-10T11:00:00",
+      "duration_minutes": 47,
+      "change_type": "hardware-replacement",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0109",
+      "device_id": "P-LAH-080",
+      "site_id": "POP-LAH-03",
+      "start": "2026-03-24T19:00:00",
+      "duration_minutes": 69,
+      "change_type": "ACL-change",
+      "status": "approved",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0110",
+      "device_id": "PE-LAH-026",
+      "site_id": "POP-LAH-03",
+      "start": "2026-09-08T00:00:00",
+      "duration_minutes": 79,
+      "change_type": "SNMP-monitoring",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0111",
+      "device_id": "P-PES-053",
+      "site_id": "POP-PES-01",
+      "start": "2026-01-09T03:00:00",
+      "duration_minutes": 39,
+      "change_type": "link-migration",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0112",
+      "device_id": "PE-MUL-002",
+      "site_id": "POP-MUL-03",
+      "start": "2026-04-25T08:00:00",
+      "duration_minutes": 10,
+      "change_type": "QoS-change",
+      "status": "approved",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0113",
+      "device_id": "PE-MUL-040",
+      "site_id": "POP-MUL-02",
+      "start": "2026-02-05T11:00:00",
+      "duration_minutes": 36,
+      "change_type": "link-migration",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0114",
+      "device_id": "P-MUL-063",
+      "site_id": "POP-MUL-02",
+      "start": "2026-01-21T10:00:00",
+      "duration_minutes": 28,
+      "change_type": "optical-maintenance",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0115",
+      "device_id": "EDGE-RAW-030",
+      "site_id": "POP-RAW-01",
+      "start": "2026-06-27T09:00:00",
+      "duration_minutes": 62,
+      "change_type": "ACL-change",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0116",
+      "device_id": "PE-PES-011",
+      "site_id": "POP-PES-01",
+      "start": "2026-07-18T05:00:00",
+      "duration_minutes": 22,
+      "change_type": "link-migration",
+      "status": "completed",
+      "risk": "high"
+    },
+    {
+      "change_id": "CHG-2026-0117",
+      "device_id": "PE-ISL-051",
+      "site_id": "POP-ISL-01",
+      "start": "2026-01-26T13:00:00",
+      "duration_minutes": 85,
+      "change_type": "hardware-replacement",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0118",
+      "device_id": "PE-MUL-017",
+      "site_id": "POP-MUL-02",
+      "start": "2026-03-22T19:00:00",
+      "duration_minutes": 47,
+      "change_type": "optical-maintenance",
+      "status": "completed",
+      "risk": "medium"
+    },
+    {
+      "change_id": "CHG-2026-0119",
+      "device_id": "PE-RAW-042",
+      "site_id": "POP-RAW-03",
+      "start": "2026-04-19T13:00:00",
+      "duration_minutes": 67,
+      "change_type": "optical-maintenance",
+      "status": "completed",
+      "risk": "low"
+    },
+    {
+      "change_id": "CHG-2026-0120",
+      "device_id": "PE-LAH-026",
+      "site_id": "POP-LAH-03",
+      "start": "2026-02-16T11:00:00",
+      "duration_minutes": 109,
+      "change_type": "hardware-replacement",
+      "status": "completed",
+      "risk": "low"
+    }
+  ]
+}

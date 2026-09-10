@@ -1,0 +1,1691 @@
+{
+  "services": [
+    {
+      "service_id": "SVC-0001",
+      "name": "International IP Transit #1",
+      "priority": "P2",
+      "region": "Islamabad"
+    },
+    {
+      "service_id": "SVC-0002",
+      "name": "Internet Transit #2",
+      "priority": "P2",
+      "region": "Peshawar"
+    },
+    {
+      "service_id": "SVC-0003",
+      "name": "Enterprise VPN #3",
+      "priority": "P1",
+      "region": "Karachi"
+    },
+    {
+      "service_id": "SVC-0004",
+      "name": "B2B Internet #4",
+      "priority": "P3",
+      "region": "Rawalpindi"
+    },
+    {
+      "service_id": "SVC-0005",
+      "name": "Consumer Broadband #5",
+      "priority": "P1",
+      "region": "Karachi"
+    },
+    {
+      "service_id": "SVC-0006",
+      "name": "DC Interconnect #6",
+      "priority": "P2",
+      "region": "Karachi"
+    },
+    {
+      "service_id": "SVC-0007",
+      "name": "Cloud Connect #7",
+      "priority": "P2",
+      "region": "Islamabad"
+    },
+    {
+      "service_id": "SVC-0008",
+      "name": "Cloud Connect #8",
+      "priority": "P3",
+      "region": "Lahore"
+    },
+    {
+      "service_id": "SVC-0009",
+      "name": "B2B Internet #9",
+      "priority": "P1",
+      "region": "Multan"
+    },
+    {
+      "service_id": "SVC-0010",
+      "name": "International IP Transit #10",
+      "priority": "P2",
+      "region": "Multan"
+    },
+    {
+      "service_id": "SVC-0011",
+      "name": "Mobile Backhaul #11",
+      "priority": "P2",
+      "region": "Rawalpindi"
+    },
+    {
+      "service_id": "SVC-0012",
+      "name": "Mobile Backhaul #12",
+      "priority": "P2",
+      "region": "Faisalabad"
+    },
+    {
+      "service_id": "SVC-0013",
+      "name": "DC Interconnect #13",
+      "priority": "P1",
+      "region": "Multan"
+    },
+    {
+      "service_id": "SVC-0014",
+      "name": "DC Interconnect #14",
+      "priority": "P2",
+      "region": "Karachi"
+    },
+    {
+      "service_id": "SVC-0015",
+      "name": "Cloud Connect #15",
+      "priority": "P2",
+      "region": "Peshawar"
+    },
+    {
+      "service_id": "SVC-0016",
+      "name": "B2B Internet #16",
+      "priority": "P2",
+      "region": "Islamabad"
+    },
+    {
+      "service_id": "SVC-0017",
+      "name": "Cloud Connect #17",
+      "priority": "P1",
+      "region": "Peshawar"
+    },
+    {
+      "service_id": "SVC-0018",
+      "name": "Mobile Backhaul #18",
+      "priority": "P2",
+      "region": "Lahore"
+    },
+    {
+      "service_id": "SVC-0019",
+      "name": "Consumer Broadband #19",
+      "priority": "P1",
+      "region": "Rawalpindi"
+    },
+    {
+      "service_id": "SVC-0020",
+      "name": "Enterprise VPN #20",
+      "priority": "P2",
+      "region": "Peshawar"
+    },
+    {
+      "service_id": "SVC-0021",
+      "name": "IMS Signaling #21",
+      "priority": "P1",
+      "region": "Multan"
+    },
+    {
+      "service_id": "SVC-0022",
+      "name": "Consumer Broadband #22",
+      "priority": "P2",
+      "region": "Peshawar"
+    },
+    {
+      "service_id": "SVC-0023",
+      "name": "B2B Internet #23",
+      "priority": "P2",
+      "region": "Faisalabad"
+    },
+    {
+      "service_id": "SVC-0024",
+      "name": "International IP Transit #24",
+      "priority": "P1",
+      "region": "Rawalpindi"
+    },
+    {
+      "service_id": "SVC-0025",
+      "name": "DC Interconnect #25",
+      "priority": "P2",
+      "region": "Multan"
+    },
+    {
+      "service_id": "SVC-0026",
+      "name": "IMS Signaling #26",
+      "priority": "P2",
+      "region": "Peshawar"
+    },
+    {
+      "service_id": "SVC-0027",
+      "name": "International IP Transit #27",
+      "priority": "P2",
+      "region": "Faisalabad"
+    },
+    {
+      "service_id": "SVC-0028",
+      "name": "Consumer Broadband #28",
+      "priority": "P3",
+      "region": "Multan"
+    },
+    {
+      "service_id": "SVC-0029",
+      "name": "IMS Signaling #29",
+      "priority": "P1",
+      "region": "Multan"
+    },
+    {
+      "service_id": "SVC-0030",
+      "name": "VoLTE Signaling #30",
+      "priority": "P1",
+      "region": "Lahore"
+    },
+    {
+      "service_id": "SVC-0031",
+      "name": "B2B Internet #31",
+      "priority": "P2",
+      "region": "Faisalabad"
+    },
+    {
+      "service_id": "SVC-0032",
+      "name": "Enterprise VPN #32",
+      "priority": "P2",
+      "region": "Lahore"
+    },
+    {
+      "service_id": "SVC-0033",
+      "name": "IMS Signaling #33",
+      "priority": "P3",
+      "region": "Lahore"
+    },
+    {
+      "service_id": "SVC-0034",
+      "name": "Consumer Broadband #34",
+      "priority": "P3",
+      "region": "Faisalabad"
+    },
+    {
+      "service_id": "SVC-0035",
+      "name": "Consumer Broadband #35",
+      "priority": "P1",
+      "region": "Islamabad"
+    },
+    {
+      "service_id": "SVC-0036",
+      "name": "B2B Internet #36",
+      "priority": "P2",
+      "region": "Faisalabad"
+    },
+    {
+      "service_id": "SVC-0037",
+      "name": "Internet Transit #37",
+      "priority": "P2",
+      "region": "Rawalpindi"
+    },
+    {
+      "service_id": "SVC-0038",
+      "name": "Internet Transit #38",
+      "priority": "P1",
+      "region": "Peshawar"
+    },
+    {
+      "service_id": "SVC-0039",
+      "name": "Mobile Backhaul #39",
+      "priority": "P3",
+      "region": "Karachi"
+    },
+    {
+      "service_id": "SVC-0040",
+      "name": "International IP Transit #40",
+      "priority": "P1",
+      "region": "Islamabad"
+    },
+    {
+      "service_id": "SVC-0041",
+      "name": "Consumer Broadband #41",
+      "priority": "P2",
+      "region": "Peshawar"
+    },
+    {
+      "service_id": "SVC-0042",
+      "name": "Consumer Broadband #42",
+      "priority": "P1",
+      "region": "Multan"
+    },
+    {
+      "service_id": "SVC-0043",
+      "name": "B2B Internet #43",
+      "priority": "P3",
+      "region": "Lahore"
+    },
+    {
+      "service_id": "SVC-0044",
+      "name": "Cloud Connect #44",
+      "priority": "P2",
+      "region": "Multan"
+    },
+    {
+      "service_id": "SVC-0045",
+      "name": "International IP Transit #45",
+      "priority": "P1",
+      "region": "Lahore"
+    },
+    {
+      "service_id": "SVC-0046",
+      "name": "International IP Transit #46",
+      "priority": "P3",
+      "region": "Islamabad"
+    },
+    {
+      "service_id": "SVC-0047",
+      "name": "Internet Transit #47",
+      "priority": "P2",
+      "region": "Islamabad"
+    },
+    {
+      "service_id": "SVC-0048",
+      "name": "VoLTE Signaling #48",
+      "priority": "P1",
+      "region": "Multan"
+    },
+    {
+      "service_id": "SVC-0049",
+      "name": "Enterprise VPN #49",
+      "priority": "P2",
+      "region": "Peshawar"
+    },
+    {
+      "service_id": "SVC-0050",
+      "name": "VoLTE Signaling #50",
+      "priority": "P2",
+      "region": "Peshawar"
+    },
+    {
+      "service_id": "SVC-0051",
+      "name": "Internet Transit #51",
+      "priority": "P1",
+      "region": "Multan"
+    },
+    {
+      "service_id": "SVC-0052",
+      "name": "VoLTE Signaling #52",
+      "priority": "P1",
+      "region": "Peshawar"
+    },
+    {
+      "service_id": "SVC-0053",
+      "name": "B2B Internet #53",
+      "priority": "P1",
+      "region": "Faisalabad"
+    },
+    {
+      "service_id": "SVC-0054",
+      "name": "Consumer Broadband #54",
+      "priority": "P1",
+      "region": "Peshawar"
+    },
+    {
+      "service_id": "SVC-0055",
+      "name": "B2B Internet #55",
+      "priority": "P1",
+      "region": "Rawalpindi"
+    },
+    {
+      "service_id": "SVC-0056",
+      "name": "VoLTE Signaling #56",
+      "priority": "P3",
+      "region": "Faisalabad"
+    },
+    {
+      "service_id": "SVC-0057",
+      "name": "Enterprise VPN #57",
+      "priority": "P2",
+      "region": "Rawalpindi"
+    },
+    {
+      "service_id": "SVC-0058",
+      "name": "B2B Internet #58",
+      "priority": "P1",
+      "region": "Islamabad"
+    },
+    {
+      "service_id": "SVC-0059",
+      "name": "International IP Transit #59",
+      "priority": "P1",
+      "region": "Lahore"
+    },
+    {
+      "service_id": "SVC-0060",
+      "name": "Consumer Broadband #60",
+      "priority": "P2",
+      "region": "Multan"
+    },
+    {
+      "service_id": "SVC-0061",
+      "name": "B2B Internet #61",
+      "priority": "P2",
+      "region": "Lahore"
+    },
+    {
+      "service_id": "SVC-0062",
+      "name": "VoLTE Signaling #62",
+      "priority": "P3",
+      "region": "Rawalpindi"
+    },
+    {
+      "service_id": "SVC-0063",
+      "name": "VoLTE Signaling #63",
+      "priority": "P1",
+      "region": "Peshawar"
+    },
+    {
+      "service_id": "SVC-0064",
+      "name": "International IP Transit #64",
+      "priority": "P2",
+      "region": "Faisalabad"
+    },
+    {
+      "service_id": "SVC-0065",
+      "name": "Enterprise VPN #65",
+      "priority": "P3",
+      "region": "Multan"
+    },
+    {
+      "service_id": "SVC-0066",
+      "name": "Internet Transit #66",
+      "priority": "P1",
+      "region": "Faisalabad"
+    },
+    {
+      "service_id": "SVC-0067",
+      "name": "International IP Transit #67",
+      "priority": "P3",
+      "region": "Islamabad"
+    },
+    {
+      "service_id": "SVC-0068",
+      "name": "IMS Signaling #68",
+      "priority": "P2",
+      "region": "Faisalabad"
+    },
+    {
+      "service_id": "SVC-0069",
+      "name": "Consumer Broadband #69",
+      "priority": "P1",
+      "region": "Islamabad"
+    },
+    {
+      "service_id": "SVC-0070",
+      "name": "DC Interconnect #70",
+      "priority": "P3",
+      "region": "Multan"
+    },
+    {
+      "service_id": "SVC-0071",
+      "name": "VoLTE Signaling #71",
+      "priority": "P1",
+      "region": "Faisalabad"
+    },
+    {
+      "service_id": "SVC-0072",
+      "name": "Mobile Backhaul #72",
+      "priority": "P2",
+      "region": "Islamabad"
+    },
+    {
+      "service_id": "SVC-0073",
+      "name": "Enterprise VPN #73",
+      "priority": "P2",
+      "region": "Lahore"
+    },
+    {
+      "service_id": "SVC-0074",
+      "name": "International IP Transit #74",
+      "priority": "P1",
+      "region": "Islamabad"
+    },
+    {
+      "service_id": "SVC-0075",
+      "name": "Mobile Backhaul #75",
+      "priority": "P3",
+      "region": "Lahore"
+    },
+    {
+      "service_id": "SVC-0076",
+      "name": "VoLTE Signaling #76",
+      "priority": "P2",
+      "region": "Karachi"
+    },
+    {
+      "service_id": "SVC-0077",
+      "name": "B2B Internet #77",
+      "priority": "P3",
+      "region": "Peshawar"
+    },
+    {
+      "service_id": "SVC-0078",
+      "name": "Mobile Backhaul #78",
+      "priority": "P1",
+      "region": "Peshawar"
+    },
+    {
+      "service_id": "SVC-0079",
+      "name": "IMS Signaling #79",
+      "priority": "P2",
+      "region": "Karachi"
+    },
+    {
+      "service_id": "SVC-0080",
+      "name": "DC Interconnect #80",
+      "priority": "P2",
+      "region": "Peshawar"
+    }
+  ],
+  "dependencies": [
+    {
+      "service_id": "SVC-0001",
+      "device_id": "P-PES-053",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0001",
+      "device_id": "P-FAI-058",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0002",
+      "device_id": "PE-PES-037",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0002",
+      "device_id": "PE-KAR-059",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0002",
+      "device_id": "RR-LAH-010",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0003",
+      "device_id": "BNG-LAH-029",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0003",
+      "device_id": "P-KAR-020",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0003",
+      "device_id": "P-LAH-035",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0003",
+      "device_id": "BNG-FAI-019",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0004",
+      "device_id": "BNG-PES-039",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0004",
+      "device_id": "BNG-FAI-052",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0004",
+      "device_id": "P-LAH-035",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0005",
+      "device_id": "PE-RAW-042",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0005",
+      "device_id": "PE-FAI-078",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0005",
+      "device_id": "EDGE-ISL-033",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0006",
+      "device_id": "PE-LAH-061",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0006",
+      "device_id": "EDGE-LAH-067",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0007",
+      "device_id": "PE-LAH-061",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0007",
+      "device_id": "RR-LAH-045",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0008",
+      "device_id": "P-PES-053",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0008",
+      "device_id": "BNG-MUL-064",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0008",
+      "device_id": "PE-PES-037",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0009",
+      "device_id": "PE-RAW-042",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0009",
+      "device_id": "PE-ISL-015",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0009",
+      "device_id": "BNG-FAI-052",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0010",
+      "device_id": "EDGE-LAH-067",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0010",
+      "device_id": "EDGE-PES-047",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0011",
+      "device_id": "P-LAH-035",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0011",
+      "device_id": "EDGE-PES-071",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0012",
+      "device_id": "PE-FAI-078",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0012",
+      "device_id": "EDGE-MUL-031",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0013",
+      "device_id": "BNG-LAH-029",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0013",
+      "device_id": "PE-ISL-015",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0014",
+      "device_id": "P-RAW-038",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0014",
+      "device_id": "BNG-RAW-066",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0014",
+      "device_id": "P-LAH-035",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0014",
+      "device_id": "RR-FAI-054",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0015",
+      "device_id": "BNG-RAW-066",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0015",
+      "device_id": "PE-ISL-018",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0015",
+      "device_id": "RR-ISL-009",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0015",
+      "device_id": "RR-LAH-036",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0016",
+      "device_id": "PE-MUL-075",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0016",
+      "device_id": "P-MUL-063",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0016",
+      "device_id": "P-KAR-020",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0016",
+      "device_id": "P-FAI-058",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0017",
+      "device_id": "EDGE-MUL-031",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0017",
+      "device_id": "PE-KAR-074",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0018",
+      "device_id": "PE-LAH-061",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0018",
+      "device_id": "EDGE-MUL-049",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0018",
+      "device_id": "PE-KAR-050",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0019",
+      "device_id": "P-MUL-013",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0019",
+      "device_id": "PE-FAI-068",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0019",
+      "device_id": "PE-KAR-059",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0020",
+      "device_id": "BNG-RAW-044",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0020",
+      "device_id": "P-LAH-080",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0020",
+      "device_id": "PE-ISL-051",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0021",
+      "device_id": "PE-RAW-005",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0021",
+      "device_id": "P-LAH-080",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0021",
+      "device_id": "RR-ISL-009",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0021",
+      "device_id": "EDGE-MUL-031",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0022",
+      "device_id": "EDGE-RAW-022",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0022",
+      "device_id": "BNG-PES-039",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0022",
+      "device_id": "RR-KAR-004",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0023",
+      "device_id": "RR-KAR-056",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0023",
+      "device_id": "BNG-FAI-019",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0023",
+      "device_id": "P-PES-032",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0024",
+      "device_id": "PE-FAI-079",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0024",
+      "device_id": "EDGE-MUL-049",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0025",
+      "device_id": "EDGE-ISL-033",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0025",
+      "device_id": "PE-KAR-059",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0025",
+      "device_id": "PE-MUL-002",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0026",
+      "device_id": "P-ISL-076",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0026",
+      "device_id": "BNG-PES-039",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0026",
+      "device_id": "BNG-KAR-055",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0027",
+      "device_id": "EDGE-RAW-014",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0027",
+      "device_id": "EDGE-MUL-031",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0027",
+      "device_id": "EDGE-MUL-049",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0028",
+      "device_id": "PE-ISL-051",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0028",
+      "device_id": "RR-LAH-036",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0028",
+      "device_id": "PE-MUL-002",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0028",
+      "device_id": "PE-KAR-073",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0029",
+      "device_id": "PE-MUL-025",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0029",
+      "device_id": "P-LAH-080",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0030",
+      "device_id": "RR-LAH-057",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0030",
+      "device_id": "PE-RAW-005",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0030",
+      "device_id": "PE-MUL-075",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0031",
+      "device_id": "PE-LAH-026",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0031",
+      "device_id": "PE-MUL-017",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0032",
+      "device_id": "PE-ISL-062",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0032",
+      "device_id": "P-RAW-038",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0032",
+      "device_id": "BNG-RAW-044",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0033",
+      "device_id": "EDGE-PES-047",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0033",
+      "device_id": "PE-ISL-012",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0033",
+      "device_id": "PE-ISL-051",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0033",
+      "device_id": "PE-MUL-002",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0034",
+      "device_id": "EDGE-RAW-048",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0034",
+      "device_id": "EDGE-RAW-014",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0034",
+      "device_id": "EDGE-RAW-030",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0034",
+      "device_id": "PE-LAH-061",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0035",
+      "device_id": "BNG-PES-039",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0035",
+      "device_id": "P-PES-053",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0035",
+      "device_id": "PE-ISL-015",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0035",
+      "device_id": "PE-ISL-018",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0036",
+      "device_id": "PE-ISL-018",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0036",
+      "device_id": "PE-KAR-050",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0036",
+      "device_id": "PE-KAR-059",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0036",
+      "device_id": "EDGE-RAW-048",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0037",
+      "device_id": "P-PES-053",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0037",
+      "device_id": "RR-LAH-036",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0037",
+      "device_id": "PE-RAW-005",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0037",
+      "device_id": "EDGE-RAW-048",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0038",
+      "device_id": "PE-PES-046",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0038",
+      "device_id": "P-MUL-008",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0038",
+      "device_id": "PE-ISL-051",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0038",
+      "device_id": "RR-LAH-036",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0039",
+      "device_id": "P-KAR-043",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0039",
+      "device_id": "P-PES-032",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0040",
+      "device_id": "PE-ISL-028",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0040",
+      "device_id": "EDGE-RAW-030",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0040",
+      "device_id": "P-KAR-043",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0040",
+      "device_id": "BNG-FAI-019",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0041",
+      "device_id": "RR-KAR-004",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0041",
+      "device_id": "PE-MUL-017",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0042",
+      "device_id": "RR-PES-023",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0042",
+      "device_id": "PE-FAI-034",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0043",
+      "device_id": "RR-ISL-009",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0043",
+      "device_id": "PE-LAH-061",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0043",
+      "device_id": "P-FAI-058",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0043",
+      "device_id": "EDGE-PES-047",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0044",
+      "device_id": "RR-KAR-004",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0044",
+      "device_id": "P-MUL-008",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0044",
+      "device_id": "PE-ISL-062",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0045",
+      "device_id": "PE-PES-011",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0045",
+      "device_id": "PE-RAW-042",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0046",
+      "device_id": "PE-MUL-075",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0046",
+      "device_id": "EDGE-PES-071",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0046",
+      "device_id": "PE-RAW-042",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0046",
+      "device_id": "EDGE-MUL-049",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0047",
+      "device_id": "EDGE-PES-071",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0047",
+      "device_id": "PE-ISL-028",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0047",
+      "device_id": "RR-KAR-056",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0047",
+      "device_id": "P-FAI-058",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0048",
+      "device_id": "BNG-KAR-055",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0048",
+      "device_id": "RR-LAH-041",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0048",
+      "device_id": "EDGE-ISL-033",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0049",
+      "device_id": "PE-ISL-012",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0049",
+      "device_id": "RR-KAR-056",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0050",
+      "device_id": "EDGE-KAR-072",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0050",
+      "device_id": "P-KAR-043",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0050",
+      "device_id": "PE-ISL-016",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0050",
+      "device_id": "P-PES-053",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0051",
+      "device_id": "PE-KAR-074",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0051",
+      "device_id": "RR-PES-065",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0052",
+      "device_id": "RR-LAH-045",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0052",
+      "device_id": "EDGE-KAR-072",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0053",
+      "device_id": "EDGE-KAR-072",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0053",
+      "device_id": "P-LAH-080",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0053",
+      "device_id": "PE-FAI-079",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0054",
+      "device_id": "PE-MUL-040",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0054",
+      "device_id": "BNG-RAW-044",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0054",
+      "device_id": "RR-LAH-045",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0055",
+      "device_id": "RR-KAR-004",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0055",
+      "device_id": "PE-ISL-012",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0056",
+      "device_id": "BNG-MUL-021",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0056",
+      "device_id": "EDGE-RAW-048",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0056",
+      "device_id": "PE-MUL-040",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0057",
+      "device_id": "P-LAH-080",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0057",
+      "device_id": "PE-LAH-007",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0058",
+      "device_id": "RR-LAH-057",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0058",
+      "device_id": "RR-FAI-054",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0058",
+      "device_id": "P-LAH-035",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0058",
+      "device_id": "PE-ISL-028",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0059",
+      "device_id": "PE-MUL-040",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0059",
+      "device_id": "PE-RAW-006",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0059",
+      "device_id": "BNG-LAH-029",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0059",
+      "device_id": "PE-ISL-051",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0060",
+      "device_id": "P-RAW-038",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0060",
+      "device_id": "PE-RAW-042",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0060",
+      "device_id": "PE-ISL-016",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0061",
+      "device_id": "BNG-ISL-069",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0061",
+      "device_id": "EDGE-RAW-030",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0061",
+      "device_id": "RR-PES-065",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0062",
+      "device_id": "PE-KAR-059",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0062",
+      "device_id": "RR-LAH-010",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0063",
+      "device_id": "PE-ISL-015",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0063",
+      "device_id": "BNG-FAI-052",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0063",
+      "device_id": "PE-LAH-003",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0064",
+      "device_id": "EDGE-RAW-014",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0064",
+      "device_id": "P-PES-032",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0064",
+      "device_id": "RR-KAR-056",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0065",
+      "device_id": "BNG-RAW-044",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0065",
+      "device_id": "BNG-LAH-029",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0065",
+      "device_id": "P-KAR-043",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0065",
+      "device_id": "EDGE-RAW-022",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0066",
+      "device_id": "BNG-FAI-019",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0066",
+      "device_id": "EDGE-MUL-031",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0066",
+      "device_id": "EDGE-RAW-014",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0066",
+      "device_id": "EDGE-ISL-033",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0067",
+      "device_id": "PE-KAR-073",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0067",
+      "device_id": "PE-MUL-075",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0067",
+      "device_id": "P-FAI-058",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0068",
+      "device_id": "PE-LAH-061",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0068",
+      "device_id": "RR-LAH-057",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0069",
+      "device_id": "RR-LAH-010",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0069",
+      "device_id": "PE-MUL-040",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0069",
+      "device_id": "P-PES-060",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0069",
+      "device_id": "P-FAI-058",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0070",
+      "device_id": "PE-MUL-075",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0070",
+      "device_id": "EDGE-PES-071",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0070",
+      "device_id": "PE-RAW-006",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0071",
+      "device_id": "P-KAR-020",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0071",
+      "device_id": "P-MUL-008",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0071",
+      "device_id": "P-FAI-058",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0071",
+      "device_id": "EDGE-RAW-014",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0072",
+      "device_id": "PE-FAI-068",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0072",
+      "device_id": "EDGE-LAH-067",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0072",
+      "device_id": "PE-FAI-079",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0073",
+      "device_id": "PE-LAH-077",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0073",
+      "device_id": "PE-LAH-007",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0073",
+      "device_id": "P-KAR-043",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0074",
+      "device_id": "PE-FAI-078",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0074",
+      "device_id": "P-KAR-020",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0074",
+      "device_id": "P-KAR-043",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0074",
+      "device_id": "PE-PES-011",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0075",
+      "device_id": "EDGE-KAR-072",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0075",
+      "device_id": "EDGE-MUL-049",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0075",
+      "device_id": "P-KAR-043",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0076",
+      "device_id": "PE-MUL-040",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0076",
+      "device_id": "PE-ISL-024",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0076",
+      "device_id": "PE-ISL-028",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0077",
+      "device_id": "P-RAW-038",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0077",
+      "device_id": "P-MUL-013",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0078",
+      "device_id": "PE-MUL-017",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0078",
+      "device_id": "PE-LAH-077",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0078",
+      "device_id": "EDGE-MUL-049",
+      "dependency_type": "primary"
+    },
+    {
+      "service_id": "SVC-0078",
+      "device_id": "P-KAR-020",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0079",
+      "device_id": "EDGE-MUL-031",
+      "dependency_type": "redundant"
+    },
+    {
+      "service_id": "SVC-0079",
+      "device_id": "RR-LAH-057",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0079",
+      "device_id": "PE-FAI-079",
+      "dependency_type": "transport"
+    },
+    {
+      "service_id": "SVC-0080",
+      "device_id": "EDGE-RAW-048",
+      "dependency_type": "aggregation"
+    },
+    {
+      "service_id": "SVC-0080",
+      "device_id": "PE-KAR-074",
+      "dependency_type": "transport"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "scenarios": [
+    {
+      "scenario_id": "RCA-DEMO-001",
+      "title": "BGP flapping with optical degradation",
+      "input": {
+        "device_id": "PE-LHR-01",
+        "alarm": "BGP-NEIGHBOR-FLAP",
+        "peer": "PE-KHI-01",
+        "cpu_percent": 42,
+        "crc_errors": 37,
+        "optical_rx_dbm": -10.8,
+        "recent_change": null
+      },
+      "expected_direction": "physical/optical",
+      "retrieve": [
+        "topology_context",
+        "historical_incidents",
+        "known_errors",
+        "alarm_guides",
+        "performance_baselines",
+        "runbooks"
+      ]
+    },
+    {
+      "scenario_id": "RCA-DEMO-002",
+      "title": "BGP outage after routing policy change",
+      "input": {
+        "device_id": "PE-LHR-01",
+        "alarm": "BGP-NEIGHBOR-DOWN",
+        "peer": "PE-KHI-01",
+        "route_count_change_percent": -32,
+        "recent_change_minutes_ago": 4
+      },
+      "expected_direction": "configuration/change",
+      "retrieve": [
+        "change_context",
+        "historical_incidents",
+        "postmortems",
+        "runbooks",
+        "alarm_guides"
+      ]
+    },
+    {
+      "scenario_id": "RCA-DEMO-003",
+      "title": "High CPU following route churn",
+      "input": {
+        "device_id": "P-LHR-01",
+        "alarm": "HIGH-CPU",
+        "cpu_percent": 91,
+        "route_updates_per_minute": 4200,
+        "link_flaps_last_15min": 7
+      },
+      "expected_direction": "routing_convergence",
+      "retrieve": [
+        "performance_baselines",
+        "historical_incidents",
+        "postmortems",
+        "known_errors",
+        "runbooks",
+        "vendor_troubleshooting"
+      ]
+    },
+    {
+      "scenario_id": "RCA-DEMO-004",
+      "title": "High CPU caused by management polling",
+      "input": {
+        "device_id": "PE-LHR-02",
+        "alarm": "HIGH-CPU",
+        "snmp_process_percent": 38,
+        "cpu_percent": 84,
+        "polling_interval_change": true
+      },
+      "expected_direction": "monitoring_load",
+      "retrieve": [
+        "change_context",
+        "known_errors",
+        "vendor_troubleshooting",
+        "performance_baselines",
+        "historical_incidents"
+      ]
+    },
+    {
+      "scenario_id": "RCA-DEMO-005",
+      "title": "Link down during approved maintenance",
+      "input": {
+        "device_id": "P-LHR-01",
+        "alarm": "LINK-DOWN",
+        "maintenance_window_active": true,
+        "service_path_redundancy": true
+      },
+      "expected_direction": "planned_maintenance",
+      "retrieve": [
+        "site_operations",
+        "change_context",
+        "topology_context",
+        "alarm_guides",
+        "runbooks"
+      ]
+    }
+  ]
+}

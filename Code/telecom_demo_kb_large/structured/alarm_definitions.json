@@ -1,0 +1,156 @@
+{
+  "alarms": [
+    {
+      "code": "BGP-NEIGHBOR-FLAP",
+      "severity": "major",
+      "object": "BGP peer",
+      "meaning": "Synthetic operational alarm for BGP peer.",
+      "common_causes": [
+        "Optical degradation",
+        "Incorrect routing or interface configuration",
+        "Excessive route churn",
+        "Software defect or process instability"
+      ]
+    },
+    {
+      "code": "BGP-NEIGHBOR-DOWN",
+      "severity": "major",
+      "object": "BGP peer",
+      "meaning": "Synthetic operational alarm for BGP peer.",
+      "common_causes": [
+        "Optical degradation",
+        "Incorrect routing or interface configuration",
+        "Excessive route churn",
+        "Software defect or process instability"
+      ]
+    },
+    {
+      "code": "BGP-HOLD-TIMER-EXPIRED",
+      "severity": "major",
+      "object": "BGP peer",
+      "meaning": "Synthetic operational alarm for BGP peer.",
+      "common_causes": [
+        "Optical degradation",
+        "Incorrect routing or interface configuration",
+        "Excessive route churn",
+        "Software defect or process instability"
+      ]
+    },
+    {
+      "code": "HIGH-CPU",
+      "severity": "major",
+      "object": "device",
+      "meaning": "Synthetic operational alarm for device.",
+      "common_causes": [
+        "Excessive route churn",
+        "Excessive SNMP/telemetry workload",
+        "Sustained resource exhaustion"
+      ]
+    },
+    {
+      "code": "HIGH-MEMORY",
+      "severity": "major",
+      "object": "device",
+      "meaning": "Synthetic operational alarm for device.",
+      "common_causes": []
+    },
+    {
+      "code": "LINK-DOWN",
+      "severity": "critical",
+      "object": "interface",
+      "meaning": "Synthetic operational alarm for interface.",
+      "common_causes": [
+        "Optical degradation",
+        "Fiber impairment",
+        "Approved maintenance activity",
+        "Hardware component failure"
+      ]
+    },
+    {
+      "code": "LINK-FLAP",
+      "severity": "major",
+      "object": "interface",
+      "meaning": "Synthetic operational alarm for interface.",
+      "common_causes": [
+        "Optical degradation",
+        "Fiber impairment",
+        "Approved maintenance activity",
+        "Hardware component failure"
+      ]
+    },
+    {
+      "code": "CRC-ERRORS",
+      "severity": "major",
+      "object": "interface",
+      "meaning": "Synthetic operational alarm for interface.",
+      "common_causes": []
+    },
+    {
+      "code": "PACKET-LOSS",
+      "severity": "major",
+      "object": "path",
+      "meaning": "Synthetic operational alarm for path.",
+      "common_causes": []
+    },
+    {
+      "code": "LATENCY-HIGH",
+      "severity": "major",
+      "object": "path",
+      "meaning": "Synthetic operational alarm for path.",
+      "common_causes": []
+    },
+    {
+      "code": "ISIS-ADJ-DOWN",
+      "severity": "major",
+      "object": "IGP adjacency",
+      "meaning": "Synthetic operational alarm for IGP adjacency.",
+      "common_causes": []
+    },
+    {
+      "code": "OPTICAL-RX-LOW",
+      "severity": "major",
+      "object": "optic",
+      "meaning": "Synthetic operational alarm for optic.",
+      "common_causes": [
+        "Optical degradation"
+      ]
+    },
+    {
+      "code": "OPTICAL-TX-LOW",
+      "severity": "major",
+      "object": "optic",
+      "meaning": "Synthetic operational alarm for optic.",
+      "common_causes": [
+        "Optical degradation"
+      ]
+    },
+    {
+      "code": "POWER-INPUT-FAIL",
+      "severity": "critical",
+      "object": "site/device",
+      "meaning": "Synthetic operational alarm for site/device.",
+      "common_causes": [
+        "Power or site infrastructure event"
+      ]
+    },
+    {
+      "code": "BGP-ROUTE-THRESHOLD",
+      "severity": "major",
+      "object": "BGP process",
+      "meaning": "Synthetic operational alarm for BGP process.",
+      "common_causes": [
+        "Optical degradation",
+        "Incorrect routing or interface configuration",
+        "Excessive route churn",
+        "Software defect or process instability"
+      ]
+    },
+    {
+      "code": "MEMORY-LEAK-SUSPECTED",
+      "severity": "major",
+      "object": "process",
+      "meaning": "Synthetic operational alarm for process.",
+      "common_causes": []
+    }
+  ]
+}
