@@ -1,0 +1,2564 @@
+{
+  "interfaces": [
+    {
+      "interface_id": "PE-MUL-001-Eth0/0",
+      "device_id": "PE-MUL-001",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-001-Eth1/0",
+      "device_id": "PE-MUL-001",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-001-Eth2/0",
+      "device_id": "PE-MUL-001",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-001-Eth3/0",
+      "device_id": "PE-MUL-001",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-002-Eth0/0",
+      "device_id": "PE-MUL-002",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-002-Eth1/0",
+      "device_id": "PE-MUL-002",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-002-Eth2/0",
+      "device_id": "PE-MUL-002",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-002-Eth3/0",
+      "device_id": "PE-MUL-002",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-003-Eth0/0",
+      "device_id": "PE-LAH-003",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-003-Eth1/0",
+      "device_id": "PE-LAH-003",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-003-Eth2/0",
+      "device_id": "PE-LAH-003",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-003-Eth3/0",
+      "device_id": "PE-LAH-003",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-KAR-004-Eth0/0",
+      "device_id": "RR-KAR-004",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-KAR-004-Eth1/0",
+      "device_id": "RR-KAR-004",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-KAR-004-Eth2/0",
+      "device_id": "RR-KAR-004",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-KAR-004-Eth3/0",
+      "device_id": "RR-KAR-004",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-RAW-005-Eth0/0",
+      "device_id": "PE-RAW-005",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-RAW-005-Eth1/0",
+      "device_id": "PE-RAW-005",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-RAW-005-Eth2/0",
+      "device_id": "PE-RAW-005",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-RAW-005-Eth3/0",
+      "device_id": "PE-RAW-005",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-RAW-006-Eth0/0",
+      "device_id": "PE-RAW-006",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-RAW-006-Eth1/0",
+      "device_id": "PE-RAW-006",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-RAW-006-Eth2/0",
+      "device_id": "PE-RAW-006",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-RAW-006-Eth3/0",
+      "device_id": "PE-RAW-006",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-007-Eth0/0",
+      "device_id": "PE-LAH-007",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-007-Eth1/0",
+      "device_id": "PE-LAH-007",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-007-Eth2/0",
+      "device_id": "PE-LAH-007",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-007-Eth3/0",
+      "device_id": "PE-LAH-007",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-MUL-008-Eth0/0",
+      "device_id": "P-MUL-008",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-MUL-008-Eth1/0",
+      "device_id": "P-MUL-008",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-MUL-008-Eth2/0",
+      "device_id": "P-MUL-008",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-MUL-008-Eth3/0",
+      "device_id": "P-MUL-008",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-ISL-009-Eth0/0",
+      "device_id": "RR-ISL-009",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-ISL-009-Eth1/0",
+      "device_id": "RR-ISL-009",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-ISL-009-Eth2/0",
+      "device_id": "RR-ISL-009",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-ISL-009-Eth3/0",
+      "device_id": "RR-ISL-009",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-010-Eth0/0",
+      "device_id": "RR-LAH-010",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-010-Eth1/0",
+      "device_id": "RR-LAH-010",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-010-Eth2/0",
+      "device_id": "RR-LAH-010",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-010-Eth3/0",
+      "device_id": "RR-LAH-010",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-PES-011-Eth0/0",
+      "device_id": "PE-PES-011",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-PES-011-Eth1/0",
+      "device_id": "PE-PES-011",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-PES-011-Eth2/0",
+      "device_id": "PE-PES-011",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-PES-011-Eth3/0",
+      "device_id": "PE-PES-011",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-012-Eth0/0",
+      "device_id": "PE-ISL-012",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-012-Eth1/0",
+      "device_id": "PE-ISL-012",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-012-Eth2/0",
+      "device_id": "PE-ISL-012",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-012-Eth3/0",
+      "device_id": "PE-ISL-012",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-MUL-013-Eth0/0",
+      "device_id": "P-MUL-013",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-MUL-013-Eth1/0",
+      "device_id": "P-MUL-013",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-MUL-013-Eth2/0",
+      "device_id": "P-MUL-013",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-MUL-013-Eth3/0",
+      "device_id": "P-MUL-013",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-014-Eth0/0",
+      "device_id": "EDGE-RAW-014",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-014-Eth1/0",
+      "device_id": "EDGE-RAW-014",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-014-Eth2/0",
+      "device_id": "EDGE-RAW-014",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-014-Eth3/0",
+      "device_id": "EDGE-RAW-014",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-015-Eth0/0",
+      "device_id": "PE-ISL-015",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-015-Eth1/0",
+      "device_id": "PE-ISL-015",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-015-Eth2/0",
+      "device_id": "PE-ISL-015",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-015-Eth3/0",
+      "device_id": "PE-ISL-015",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-016-Eth0/0",
+      "device_id": "PE-ISL-016",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-016-Eth1/0",
+      "device_id": "PE-ISL-016",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-016-Eth2/0",
+      "device_id": "PE-ISL-016",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-016-Eth3/0",
+      "device_id": "PE-ISL-016",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-017-Eth0/0",
+      "device_id": "PE-MUL-017",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-017-Eth1/0",
+      "device_id": "PE-MUL-017",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-017-Eth2/0",
+      "device_id": "PE-MUL-017",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-017-Eth3/0",
+      "device_id": "PE-MUL-017",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-018-Eth0/0",
+      "device_id": "PE-ISL-018",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-018-Eth1/0",
+      "device_id": "PE-ISL-018",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-018-Eth2/0",
+      "device_id": "PE-ISL-018",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-018-Eth3/0",
+      "device_id": "PE-ISL-018",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-FAI-019-Eth0/0",
+      "device_id": "BNG-FAI-019",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-FAI-019-Eth1/0",
+      "device_id": "BNG-FAI-019",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-FAI-019-Eth2/0",
+      "device_id": "BNG-FAI-019",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-FAI-019-Eth3/0",
+      "device_id": "BNG-FAI-019",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-KAR-020-Eth0/0",
+      "device_id": "P-KAR-020",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-KAR-020-Eth1/0",
+      "device_id": "P-KAR-020",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-KAR-020-Eth2/0",
+      "device_id": "P-KAR-020",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-KAR-020-Eth3/0",
+      "device_id": "P-KAR-020",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-MUL-021-Eth0/0",
+      "device_id": "BNG-MUL-021",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-MUL-021-Eth1/0",
+      "device_id": "BNG-MUL-021",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-MUL-021-Eth2/0",
+      "device_id": "BNG-MUL-021",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-MUL-021-Eth3/0",
+      "device_id": "BNG-MUL-021",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-022-Eth0/0",
+      "device_id": "EDGE-RAW-022",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-022-Eth1/0",
+      "device_id": "EDGE-RAW-022",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-022-Eth2/0",
+      "device_id": "EDGE-RAW-022",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-022-Eth3/0",
+      "device_id": "EDGE-RAW-022",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-PES-023-Eth0/0",
+      "device_id": "RR-PES-023",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-PES-023-Eth1/0",
+      "device_id": "RR-PES-023",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-PES-023-Eth2/0",
+      "device_id": "RR-PES-023",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-PES-023-Eth3/0",
+      "device_id": "RR-PES-023",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-024-Eth0/0",
+      "device_id": "PE-ISL-024",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-024-Eth1/0",
+      "device_id": "PE-ISL-024",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-024-Eth2/0",
+      "device_id": "PE-ISL-024",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-024-Eth3/0",
+      "device_id": "PE-ISL-024",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-025-Eth0/0",
+      "device_id": "PE-MUL-025",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-025-Eth1/0",
+      "device_id": "PE-MUL-025",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-025-Eth2/0",
+      "device_id": "PE-MUL-025",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-025-Eth3/0",
+      "device_id": "PE-MUL-025",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-026-Eth0/0",
+      "device_id": "PE-LAH-026",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-026-Eth1/0",
+      "device_id": "PE-LAH-026",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-026-Eth2/0",
+      "device_id": "PE-LAH-026",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-026-Eth3/0",
+      "device_id": "PE-LAH-026",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-ISL-027-Eth0/0",
+      "device_id": "P-ISL-027",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-ISL-027-Eth1/0",
+      "device_id": "P-ISL-027",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-ISL-027-Eth2/0",
+      "device_id": "P-ISL-027",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-ISL-027-Eth3/0",
+      "device_id": "P-ISL-027",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-028-Eth0/0",
+      "device_id": "PE-ISL-028",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-028-Eth1/0",
+      "device_id": "PE-ISL-028",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-028-Eth2/0",
+      "device_id": "PE-ISL-028",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-028-Eth3/0",
+      "device_id": "PE-ISL-028",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-LAH-029-Eth0/0",
+      "device_id": "BNG-LAH-029",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-LAH-029-Eth1/0",
+      "device_id": "BNG-LAH-029",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-LAH-029-Eth2/0",
+      "device_id": "BNG-LAH-029",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-LAH-029-Eth3/0",
+      "device_id": "BNG-LAH-029",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-030-Eth0/0",
+      "device_id": "EDGE-RAW-030",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-030-Eth1/0",
+      "device_id": "EDGE-RAW-030",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-030-Eth2/0",
+      "device_id": "EDGE-RAW-030",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-030-Eth3/0",
+      "device_id": "EDGE-RAW-030",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-MUL-031-Eth0/0",
+      "device_id": "EDGE-MUL-031",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-MUL-031-Eth1/0",
+      "device_id": "EDGE-MUL-031",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-MUL-031-Eth2/0",
+      "device_id": "EDGE-MUL-031",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-MUL-031-Eth3/0",
+      "device_id": "EDGE-MUL-031",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-PES-032-Eth0/0",
+      "device_id": "P-PES-032",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-PES-032-Eth1/0",
+      "device_id": "P-PES-032",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-PES-032-Eth2/0",
+      "device_id": "P-PES-032",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-PES-032-Eth3/0",
+      "device_id": "P-PES-032",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-ISL-033-Eth0/0",
+      "device_id": "EDGE-ISL-033",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-ISL-033-Eth1/0",
+      "device_id": "EDGE-ISL-033",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-ISL-033-Eth2/0",
+      "device_id": "EDGE-ISL-033",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-ISL-033-Eth3/0",
+      "device_id": "EDGE-ISL-033",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-034-Eth0/0",
+      "device_id": "PE-FAI-034",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-034-Eth1/0",
+      "device_id": "PE-FAI-034",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-034-Eth2/0",
+      "device_id": "PE-FAI-034",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-034-Eth3/0",
+      "device_id": "PE-FAI-034",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-LAH-035-Eth0/0",
+      "device_id": "P-LAH-035",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-LAH-035-Eth1/0",
+      "device_id": "P-LAH-035",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-LAH-035-Eth2/0",
+      "device_id": "P-LAH-035",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-LAH-035-Eth3/0",
+      "device_id": "P-LAH-035",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-036-Eth0/0",
+      "device_id": "RR-LAH-036",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-036-Eth1/0",
+      "device_id": "RR-LAH-036",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-036-Eth2/0",
+      "device_id": "RR-LAH-036",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-036-Eth3/0",
+      "device_id": "RR-LAH-036",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-PES-037-Eth0/0",
+      "device_id": "PE-PES-037",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-PES-037-Eth1/0",
+      "device_id": "PE-PES-037",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-PES-037-Eth2/0",
+      "device_id": "PE-PES-037",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-PES-037-Eth3/0",
+      "device_id": "PE-PES-037",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-RAW-038-Eth0/0",
+      "device_id": "P-RAW-038",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-RAW-038-Eth1/0",
+      "device_id": "P-RAW-038",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-RAW-038-Eth2/0",
+      "device_id": "P-RAW-038",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-RAW-038-Eth3/0",
+      "device_id": "P-RAW-038",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-PES-039-Eth0/0",
+      "device_id": "BNG-PES-039",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-PES-039-Eth1/0",
+      "device_id": "BNG-PES-039",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-PES-039-Eth2/0",
+      "device_id": "BNG-PES-039",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-PES-039-Eth3/0",
+      "device_id": "BNG-PES-039",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-040-Eth0/0",
+      "device_id": "PE-MUL-040",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-040-Eth1/0",
+      "device_id": "PE-MUL-040",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-040-Eth2/0",
+      "device_id": "PE-MUL-040",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-040-Eth3/0",
+      "device_id": "PE-MUL-040",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-041-Eth0/0",
+      "device_id": "RR-LAH-041",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-041-Eth1/0",
+      "device_id": "RR-LAH-041",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-041-Eth2/0",
+      "device_id": "RR-LAH-041",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-041-Eth3/0",
+      "device_id": "RR-LAH-041",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-RAW-042-Eth0/0",
+      "device_id": "PE-RAW-042",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-RAW-042-Eth1/0",
+      "device_id": "PE-RAW-042",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-RAW-042-Eth2/0",
+      "device_id": "PE-RAW-042",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-RAW-042-Eth3/0",
+      "device_id": "PE-RAW-042",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-KAR-043-Eth0/0",
+      "device_id": "P-KAR-043",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-KAR-043-Eth1/0",
+      "device_id": "P-KAR-043",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-KAR-043-Eth2/0",
+      "device_id": "P-KAR-043",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-KAR-043-Eth3/0",
+      "device_id": "P-KAR-043",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-RAW-044-Eth0/0",
+      "device_id": "BNG-RAW-044",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-RAW-044-Eth1/0",
+      "device_id": "BNG-RAW-044",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-RAW-044-Eth2/0",
+      "device_id": "BNG-RAW-044",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-RAW-044-Eth3/0",
+      "device_id": "BNG-RAW-044",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-045-Eth0/0",
+      "device_id": "RR-LAH-045",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-045-Eth1/0",
+      "device_id": "RR-LAH-045",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-045-Eth2/0",
+      "device_id": "RR-LAH-045",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-045-Eth3/0",
+      "device_id": "RR-LAH-045",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-PES-046-Eth0/0",
+      "device_id": "PE-PES-046",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-PES-046-Eth1/0",
+      "device_id": "PE-PES-046",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-PES-046-Eth2/0",
+      "device_id": "PE-PES-046",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-PES-046-Eth3/0",
+      "device_id": "PE-PES-046",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-PES-047-Eth0/0",
+      "device_id": "EDGE-PES-047",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-PES-047-Eth1/0",
+      "device_id": "EDGE-PES-047",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-PES-047-Eth2/0",
+      "device_id": "EDGE-PES-047",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-PES-047-Eth3/0",
+      "device_id": "EDGE-PES-047",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-048-Eth0/0",
+      "device_id": "EDGE-RAW-048",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-048-Eth1/0",
+      "device_id": "EDGE-RAW-048",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-048-Eth2/0",
+      "device_id": "EDGE-RAW-048",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-RAW-048-Eth3/0",
+      "device_id": "EDGE-RAW-048",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-MUL-049-Eth0/0",
+      "device_id": "EDGE-MUL-049",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-MUL-049-Eth1/0",
+      "device_id": "EDGE-MUL-049",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-MUL-049-Eth2/0",
+      "device_id": "EDGE-MUL-049",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-MUL-049-Eth3/0",
+      "device_id": "EDGE-MUL-049",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-050-Eth0/0",
+      "device_id": "PE-KAR-050",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-050-Eth1/0",
+      "device_id": "PE-KAR-050",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-050-Eth2/0",
+      "device_id": "PE-KAR-050",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-050-Eth3/0",
+      "device_id": "PE-KAR-050",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-051-Eth0/0",
+      "device_id": "PE-ISL-051",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-051-Eth1/0",
+      "device_id": "PE-ISL-051",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-051-Eth2/0",
+      "device_id": "PE-ISL-051",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-051-Eth3/0",
+      "device_id": "PE-ISL-051",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-FAI-052-Eth0/0",
+      "device_id": "BNG-FAI-052",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-FAI-052-Eth1/0",
+      "device_id": "BNG-FAI-052",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-FAI-052-Eth2/0",
+      "device_id": "BNG-FAI-052",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-FAI-052-Eth3/0",
+      "device_id": "BNG-FAI-052",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-PES-053-Eth0/0",
+      "device_id": "P-PES-053",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-PES-053-Eth1/0",
+      "device_id": "P-PES-053",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-PES-053-Eth2/0",
+      "device_id": "P-PES-053",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-PES-053-Eth3/0",
+      "device_id": "P-PES-053",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-FAI-054-Eth0/0",
+      "device_id": "RR-FAI-054",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-FAI-054-Eth1/0",
+      "device_id": "RR-FAI-054",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-FAI-054-Eth2/0",
+      "device_id": "RR-FAI-054",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-FAI-054-Eth3/0",
+      "device_id": "RR-FAI-054",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-KAR-055-Eth0/0",
+      "device_id": "BNG-KAR-055",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-KAR-055-Eth1/0",
+      "device_id": "BNG-KAR-055",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-KAR-055-Eth2/0",
+      "device_id": "BNG-KAR-055",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-KAR-055-Eth3/0",
+      "device_id": "BNG-KAR-055",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-KAR-056-Eth0/0",
+      "device_id": "RR-KAR-056",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-KAR-056-Eth1/0",
+      "device_id": "RR-KAR-056",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-KAR-056-Eth2/0",
+      "device_id": "RR-KAR-056",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-KAR-056-Eth3/0",
+      "device_id": "RR-KAR-056",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-057-Eth0/0",
+      "device_id": "RR-LAH-057",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-057-Eth1/0",
+      "device_id": "RR-LAH-057",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-057-Eth2/0",
+      "device_id": "RR-LAH-057",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-LAH-057-Eth3/0",
+      "device_id": "RR-LAH-057",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-FAI-058-Eth0/0",
+      "device_id": "P-FAI-058",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-FAI-058-Eth1/0",
+      "device_id": "P-FAI-058",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-FAI-058-Eth2/0",
+      "device_id": "P-FAI-058",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-FAI-058-Eth3/0",
+      "device_id": "P-FAI-058",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-059-Eth0/0",
+      "device_id": "PE-KAR-059",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-059-Eth1/0",
+      "device_id": "PE-KAR-059",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-059-Eth2/0",
+      "device_id": "PE-KAR-059",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-059-Eth3/0",
+      "device_id": "PE-KAR-059",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-PES-060-Eth0/0",
+      "device_id": "P-PES-060",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-PES-060-Eth1/0",
+      "device_id": "P-PES-060",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-PES-060-Eth2/0",
+      "device_id": "P-PES-060",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-PES-060-Eth3/0",
+      "device_id": "P-PES-060",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-061-Eth0/0",
+      "device_id": "PE-LAH-061",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-061-Eth1/0",
+      "device_id": "PE-LAH-061",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-061-Eth2/0",
+      "device_id": "PE-LAH-061",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-061-Eth3/0",
+      "device_id": "PE-LAH-061",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-062-Eth0/0",
+      "device_id": "PE-ISL-062",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-062-Eth1/0",
+      "device_id": "PE-ISL-062",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-062-Eth2/0",
+      "device_id": "PE-ISL-062",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-ISL-062-Eth3/0",
+      "device_id": "PE-ISL-062",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-MUL-063-Eth0/0",
+      "device_id": "P-MUL-063",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-MUL-063-Eth1/0",
+      "device_id": "P-MUL-063",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-MUL-063-Eth2/0",
+      "device_id": "P-MUL-063",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-MUL-063-Eth3/0",
+      "device_id": "P-MUL-063",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-MUL-064-Eth0/0",
+      "device_id": "BNG-MUL-064",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-MUL-064-Eth1/0",
+      "device_id": "BNG-MUL-064",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-MUL-064-Eth2/0",
+      "device_id": "BNG-MUL-064",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-MUL-064-Eth3/0",
+      "device_id": "BNG-MUL-064",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-PES-065-Eth0/0",
+      "device_id": "RR-PES-065",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-PES-065-Eth1/0",
+      "device_id": "RR-PES-065",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-PES-065-Eth2/0",
+      "device_id": "RR-PES-065",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "RR-PES-065-Eth3/0",
+      "device_id": "RR-PES-065",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-RAW-066-Eth0/0",
+      "device_id": "BNG-RAW-066",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-RAW-066-Eth1/0",
+      "device_id": "BNG-RAW-066",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-RAW-066-Eth2/0",
+      "device_id": "BNG-RAW-066",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-RAW-066-Eth3/0",
+      "device_id": "BNG-RAW-066",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-LAH-067-Eth0/0",
+      "device_id": "EDGE-LAH-067",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-LAH-067-Eth1/0",
+      "device_id": "EDGE-LAH-067",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-LAH-067-Eth2/0",
+      "device_id": "EDGE-LAH-067",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-LAH-067-Eth3/0",
+      "device_id": "EDGE-LAH-067",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-068-Eth0/0",
+      "device_id": "PE-FAI-068",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-068-Eth1/0",
+      "device_id": "PE-FAI-068",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-068-Eth2/0",
+      "device_id": "PE-FAI-068",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-068-Eth3/0",
+      "device_id": "PE-FAI-068",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-ISL-069-Eth0/0",
+      "device_id": "BNG-ISL-069",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-ISL-069-Eth1/0",
+      "device_id": "BNG-ISL-069",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-ISL-069-Eth2/0",
+      "device_id": "BNG-ISL-069",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-ISL-069-Eth3/0",
+      "device_id": "BNG-ISL-069",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-LAH-070-Eth0/0",
+      "device_id": "BNG-LAH-070",
+      "name": "Eth0/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-LAH-070-Eth1/0",
+      "device_id": "BNG-LAH-070",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-LAH-070-Eth2/0",
+      "device_id": "BNG-LAH-070",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "BNG-LAH-070-Eth3/0",
+      "device_id": "BNG-LAH-070",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-PES-071-Eth0/0",
+      "device_id": "EDGE-PES-071",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-PES-071-Eth1/0",
+      "device_id": "EDGE-PES-071",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-PES-071-Eth2/0",
+      "device_id": "EDGE-PES-071",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-PES-071-Eth3/0",
+      "device_id": "EDGE-PES-071",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-KAR-072-Eth0/0",
+      "device_id": "EDGE-KAR-072",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-KAR-072-Eth1/0",
+      "device_id": "EDGE-KAR-072",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-KAR-072-Eth2/0",
+      "device_id": "EDGE-KAR-072",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "EDGE-KAR-072-Eth3/0",
+      "device_id": "EDGE-KAR-072",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-073-Eth0/0",
+      "device_id": "PE-KAR-073",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-073-Eth1/0",
+      "device_id": "PE-KAR-073",
+      "name": "Eth1/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-073-Eth2/0",
+      "device_id": "PE-KAR-073",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-073-Eth3/0",
+      "device_id": "PE-KAR-073",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-074-Eth0/0",
+      "device_id": "PE-KAR-074",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-074-Eth1/0",
+      "device_id": "PE-KAR-074",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-074-Eth2/0",
+      "device_id": "PE-KAR-074",
+      "name": "Eth2/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-KAR-074-Eth3/0",
+      "device_id": "PE-KAR-074",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-075-Eth0/0",
+      "device_id": "PE-MUL-075",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-075-Eth1/0",
+      "device_id": "PE-MUL-075",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-075-Eth2/0",
+      "device_id": "PE-MUL-075",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-MUL-075-Eth3/0",
+      "device_id": "PE-MUL-075",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-ISL-076-Eth0/0",
+      "device_id": "P-ISL-076",
+      "name": "Eth0/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-ISL-076-Eth1/0",
+      "device_id": "P-ISL-076",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-ISL-076-Eth2/0",
+      "device_id": "P-ISL-076",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-ISL-076-Eth3/0",
+      "device_id": "P-ISL-076",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-077-Eth0/0",
+      "device_id": "PE-LAH-077",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-077-Eth1/0",
+      "device_id": "PE-LAH-077",
+      "name": "Eth1/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-077-Eth2/0",
+      "device_id": "PE-LAH-077",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-LAH-077-Eth3/0",
+      "device_id": "PE-LAH-077",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-078-Eth0/0",
+      "device_id": "PE-FAI-078",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-078-Eth1/0",
+      "device_id": "PE-FAI-078",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-078-Eth2/0",
+      "device_id": "PE-FAI-078",
+      "name": "Eth2/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-078-Eth3/0",
+      "device_id": "PE-FAI-078",
+      "name": "Eth3/0",
+      "type": "10G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-079-Eth0/0",
+      "device_id": "PE-FAI-079",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-079-Eth1/0",
+      "device_id": "PE-FAI-079",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-079-Eth2/0",
+      "device_id": "PE-FAI-079",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "PE-FAI-079-Eth3/0",
+      "device_id": "PE-FAI-079",
+      "name": "Eth3/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-LAH-080-Eth0/0",
+      "device_id": "P-LAH-080",
+      "name": "Eth0/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-LAH-080-Eth1/0",
+      "device_id": "P-LAH-080",
+      "name": "Eth1/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-LAH-080-Eth2/0",
+      "device_id": "P-LAH-080",
+      "name": "Eth2/0",
+      "type": "100G",
+      "status": "up",
+      "admin_state": "up"
+    },
+    {
+      "interface_id": "P-LAH-080-Eth3/0",
+      "device_id": "P-LAH-080",
+      "name": "Eth3/0",
+      "type": "40G",
+      "status": "up",
+      "admin_state": "up"
+    }
+  ]
+}

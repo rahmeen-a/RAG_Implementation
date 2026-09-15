@@ -1,0 +1,1182 @@
+{
+  "baselines": [
+    {
+      "device_or_interface": "EDGE-RAW-014",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-RAW-014",
+      "metric": "memory_percent",
+      "normal_p50": 34,
+      "normal_p95": 62,
+      "investigation_threshold": 78,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-RAW-014",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-RAW-022",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-RAW-022",
+      "metric": "input_errors_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 1,
+      "investigation_threshold": 5,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-RAW-022",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-FAI-058",
+      "metric": "input_errors_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 1,
+      "investigation_threshold": 5,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-FAI-058",
+      "metric": "bgp_prefix_count",
+      "normal_p50": 400000,
+      "normal_p95": 950000,
+      "investigation_threshold": 1100000,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-FAI-058",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-PES-060",
+      "metric": "optical_rx_dbm",
+      "normal": "-7.0 to -2.0",
+      "investigation_threshold": -9.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-PES-060",
+      "metric": "optical_tx_dbm",
+      "normal": "-1.0 to 2.0",
+      "investigation_threshold": -3.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-PES-060",
+      "metric": "memory_percent",
+      "normal_p50": 34,
+      "normal_p95": 62,
+      "investigation_threshold": 78,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-LAH-041",
+      "metric": "latency_ms",
+      "normal_p50": 5,
+      "normal_p95": 35,
+      "investigation_threshold": 80,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-LAH-041",
+      "metric": "optical_tx_dbm",
+      "normal": "-1.0 to 2.0",
+      "investigation_threshold": -3.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-LAH-041",
+      "metric": "output_discards_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 10,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-PES-053",
+      "metric": "memory_percent",
+      "normal_p50": 34,
+      "normal_p95": 62,
+      "investigation_threshold": 78,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-PES-053",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-PES-053",
+      "metric": "optical_tx_dbm",
+      "normal": "-1.0 to 2.0",
+      "investigation_threshold": -3.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-ISL-016",
+      "metric": "input_errors_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 1,
+      "investigation_threshold": 5,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-ISL-016",
+      "metric": "optical_rx_dbm",
+      "normal": "-7.0 to -2.0",
+      "investigation_threshold": -9.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-ISL-016",
+      "metric": "isis_adjacency_changes_per_hour",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 6,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-ISL-069",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-ISL-069",
+      "metric": "memory_percent",
+      "normal_p50": 34,
+      "normal_p95": 62,
+      "investigation_threshold": 78,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-ISL-069",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-PES-046",
+      "metric": "memory_percent",
+      "normal_p50": 34,
+      "normal_p95": 62,
+      "investigation_threshold": 78,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-PES-046",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-PES-046",
+      "metric": "isis_adjacency_changes_per_hour",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 6,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-ISL-027",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-ISL-027",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-ISL-027",
+      "metric": "latency_ms",
+      "normal_p50": 5,
+      "normal_p95": 35,
+      "investigation_threshold": 80,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-FAI-078",
+      "metric": "bgp_prefix_count",
+      "normal_p50": 400000,
+      "normal_p95": 950000,
+      "investigation_threshold": 1100000,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-FAI-078",
+      "metric": "optical_tx_dbm",
+      "normal": "-1.0 to 2.0",
+      "investigation_threshold": -3.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-FAI-078",
+      "metric": "isis_adjacency_changes_per_hour",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 6,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-MUL-040",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-MUL-040",
+      "metric": "bgp_prefix_count",
+      "normal_p50": 400000,
+      "normal_p95": 950000,
+      "investigation_threshold": 1100000,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-MUL-040",
+      "metric": "optical_rx_dbm",
+      "normal": "-7.0 to -2.0",
+      "investigation_threshold": -9.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-LAH-077",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-LAH-077",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-LAH-077",
+      "metric": "input_errors_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 1,
+      "investigation_threshold": 5,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-FAI-034",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-FAI-034",
+      "metric": "output_discards_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 10,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-FAI-034",
+      "metric": "optical_rx_dbm",
+      "normal": "-7.0 to -2.0",
+      "investigation_threshold": -9.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-KAR-074",
+      "metric": "isis_adjacency_changes_per_hour",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 6,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-KAR-074",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-KAR-074",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-ISL-012",
+      "metric": "latency_ms",
+      "normal_p50": 5,
+      "normal_p95": 35,
+      "investigation_threshold": 80,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-ISL-012",
+      "metric": "optical_tx_dbm",
+      "normal": "-1.0 to 2.0",
+      "investigation_threshold": -3.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-ISL-012",
+      "metric": "optical_rx_dbm",
+      "normal": "-7.0 to -2.0",
+      "investigation_threshold": -9.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-MUL-021",
+      "metric": "input_errors_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 1,
+      "investigation_threshold": 5,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-MUL-021",
+      "metric": "optical_rx_dbm",
+      "normal": "-7.0 to -2.0",
+      "investigation_threshold": -9.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-MUL-021",
+      "metric": "output_discards_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 10,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-FAI-052",
+      "metric": "isis_adjacency_changes_per_hour",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 6,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-FAI-052",
+      "metric": "bgp_prefix_count",
+      "normal_p50": 400000,
+      "normal_p95": 950000,
+      "investigation_threshold": 1100000,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-FAI-052",
+      "metric": "packet_loss_percent",
+      "normal_p50": 0,
+      "normal_p95": 0.5,
+      "investigation_threshold": 2.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-RAW-044",
+      "metric": "isis_adjacency_changes_per_hour",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 6,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-RAW-044",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-RAW-044",
+      "metric": "memory_percent",
+      "normal_p50": 34,
+      "normal_p95": 62,
+      "investigation_threshold": 78,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-KAR-020",
+      "metric": "output_discards_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 10,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-KAR-020",
+      "metric": "bgp_prefix_count",
+      "normal_p50": 400000,
+      "normal_p95": 950000,
+      "investigation_threshold": 1100000,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-KAR-020",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-MUL-075",
+      "metric": "bgp_prefix_count",
+      "normal_p50": 400000,
+      "normal_p95": 950000,
+      "investigation_threshold": 1100000,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-MUL-075",
+      "metric": "input_errors_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 1,
+      "investigation_threshold": 5,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-MUL-075",
+      "metric": "packet_loss_percent",
+      "normal_p50": 0,
+      "normal_p95": 0.5,
+      "investigation_threshold": 2.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-KAR-072",
+      "metric": "input_errors_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 1,
+      "investigation_threshold": 5,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-KAR-072",
+      "metric": "optical_rx_dbm",
+      "normal": "-7.0 to -2.0",
+      "investigation_threshold": -9.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-KAR-072",
+      "metric": "packet_loss_percent",
+      "normal_p50": 0,
+      "normal_p95": 0.5,
+      "investigation_threshold": 2.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-LAH-045",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-LAH-045",
+      "metric": "bgp_prefix_count",
+      "normal_p50": 400000,
+      "normal_p95": 950000,
+      "investigation_threshold": 1100000,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-LAH-045",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-PES-039",
+      "metric": "isis_adjacency_changes_per_hour",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 6,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-PES-039",
+      "metric": "packet_loss_percent",
+      "normal_p50": 0,
+      "normal_p95": 0.5,
+      "investigation_threshold": 2.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-PES-039",
+      "metric": "optical_tx_dbm",
+      "normal": "-1.0 to 2.0",
+      "investigation_threshold": -3.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-LAH-003",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-LAH-003",
+      "metric": "latency_ms",
+      "normal_p50": 5,
+      "normal_p95": 35,
+      "investigation_threshold": 80,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-LAH-003",
+      "metric": "packet_loss_percent",
+      "normal_p50": 0,
+      "normal_p95": 0.5,
+      "investigation_threshold": 2.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-LAH-080",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-LAH-080",
+      "metric": "bgp_prefix_count",
+      "normal_p50": 400000,
+      "normal_p95": 950000,
+      "investigation_threshold": 1100000,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "P-LAH-080",
+      "metric": "output_discards_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 10,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-FAI-054",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-FAI-054",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-FAI-054",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-MUL-064",
+      "metric": "latency_ms",
+      "normal_p50": 5,
+      "normal_p95": 35,
+      "investigation_threshold": 80,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-MUL-064",
+      "metric": "input_errors_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 1,
+      "investigation_threshold": 5,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-MUL-064",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-LAH-010",
+      "metric": "output_discards_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 10,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-LAH-010",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-LAH-010",
+      "metric": "isis_adjacency_changes_per_hour",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 6,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-RAW-006",
+      "metric": "packet_loss_percent",
+      "normal_p50": 0,
+      "normal_p95": 0.5,
+      "investigation_threshold": 2.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-RAW-006",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-RAW-006",
+      "metric": "latency_ms",
+      "normal_p50": 5,
+      "normal_p95": 35,
+      "investigation_threshold": 80,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-KAR-059",
+      "metric": "input_errors_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 1,
+      "investigation_threshold": 5,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-KAR-059",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-KAR-059",
+      "metric": "memory_percent",
+      "normal_p50": 34,
+      "normal_p95": 62,
+      "investigation_threshold": 78,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-RAW-066",
+      "metric": "input_errors_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 1,
+      "investigation_threshold": 5,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-RAW-066",
+      "metric": "optical_rx_dbm",
+      "normal": "-7.0 to -2.0",
+      "investigation_threshold": -9.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-RAW-066",
+      "metric": "optical_tx_dbm",
+      "normal": "-1.0 to 2.0",
+      "investigation_threshold": -3.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-PES-023",
+      "metric": "output_discards_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 10,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-PES-023",
+      "metric": "packet_loss_percent",
+      "normal_p50": 0,
+      "normal_p95": 0.5,
+      "investigation_threshold": 2.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-PES-023",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-LAH-026",
+      "metric": "input_errors_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 1,
+      "investigation_threshold": 5,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-LAH-026",
+      "metric": "latency_ms",
+      "normal_p50": 5,
+      "normal_p95": 35,
+      "investigation_threshold": 80,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-LAH-026",
+      "metric": "bgp_prefix_count",
+      "normal_p50": 400000,
+      "normal_p95": 950000,
+      "investigation_threshold": 1100000,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-ISL-033",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-ISL-033",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-ISL-033",
+      "metric": "optical_rx_dbm",
+      "normal": "-7.0 to -2.0",
+      "investigation_threshold": -9.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-KAR-004",
+      "metric": "input_errors_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 1,
+      "investigation_threshold": 5,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-KAR-004",
+      "metric": "latency_ms",
+      "normal_p50": 5,
+      "normal_p95": 35,
+      "investigation_threshold": 80,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-KAR-004",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-ISL-062",
+      "metric": "optical_tx_dbm",
+      "normal": "-1.0 to 2.0",
+      "investigation_threshold": -3.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-ISL-062",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-ISL-062",
+      "metric": "latency_ms",
+      "normal_p50": 5,
+      "normal_p95": 35,
+      "investigation_threshold": 80,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-LAH-061",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-LAH-061",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-LAH-061",
+      "metric": "latency_ms",
+      "normal_p50": 5,
+      "normal_p95": 35,
+      "investigation_threshold": 80,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-MUL-017",
+      "metric": "latency_ms",
+      "normal_p50": 5,
+      "normal_p95": 35,
+      "investigation_threshold": 80,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-MUL-017",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-MUL-017",
+      "metric": "optical_tx_dbm",
+      "normal": "-1.0 to 2.0",
+      "investigation_threshold": -3.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-PES-065",
+      "metric": "input_errors_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 1,
+      "investigation_threshold": 5,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-PES-065",
+      "metric": "isis_adjacency_changes_per_hour",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 6,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-PES-065",
+      "metric": "packet_loss_percent",
+      "normal_p50": 0,
+      "normal_p95": 0.5,
+      "investigation_threshold": 2.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-MUL-002",
+      "metric": "output_discards_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 10,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-MUL-002",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-MUL-002",
+      "metric": "isis_adjacency_changes_per_hour",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 6,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-PES-047",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-PES-047",
+      "metric": "memory_percent",
+      "normal_p50": 34,
+      "normal_p95": 62,
+      "investigation_threshold": 78,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-PES-047",
+      "metric": "optical_tx_dbm",
+      "normal": "-1.0 to 2.0",
+      "investigation_threshold": -3.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-LAH-029",
+      "metric": "input_errors_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 1,
+      "investigation_threshold": 5,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-LAH-029",
+      "metric": "latency_ms",
+      "normal_p50": 5,
+      "normal_p95": 35,
+      "investigation_threshold": 80,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "BNG-LAH-029",
+      "metric": "optical_tx_dbm",
+      "normal": "-1.0 to 2.0",
+      "investigation_threshold": -3.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-LAH-036",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-LAH-036",
+      "metric": "packet_loss_percent",
+      "normal_p50": 0,
+      "normal_p95": 0.5,
+      "investigation_threshold": 2.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-LAH-036",
+      "metric": "isis_adjacency_changes_per_hour",
+      "normal_p50": 0,
+      "normal_p95": 2,
+      "investigation_threshold": 6,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-PES-037",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-PES-037",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-PES-037",
+      "metric": "latency_ms",
+      "normal_p50": 5,
+      "normal_p95": 35,
+      "investigation_threshold": 80,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-MUL-049",
+      "metric": "input_errors_per_5min",
+      "normal_p50": 0,
+      "normal_p95": 1,
+      "investigation_threshold": 5,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-MUL-049",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-MUL-049",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-LAH-007",
+      "metric": "optical_tx_dbm",
+      "normal": "-1.0 to 2.0",
+      "investigation_threshold": -3.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-LAH-007",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "PE-LAH-007",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-RAW-030",
+      "metric": "cpu_percent",
+      "normal_p50": 28,
+      "normal_p95": 55,
+      "investigation_threshold": 75,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-RAW-030",
+      "metric": "optical_tx_dbm",
+      "normal": "-1.0 to 2.0",
+      "investigation_threshold": -3.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-RAW-030",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-LAH-067",
+      "metric": "latency_ms",
+      "normal_p50": 5,
+      "normal_p95": 35,
+      "investigation_threshold": 80,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-LAH-067",
+      "metric": "interface_utilization_percent",
+      "normal_p50": 25,
+      "normal_p95": 70,
+      "investigation_threshold": 85,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "EDGE-LAH-067",
+      "metric": "memory_percent",
+      "normal_p50": 34,
+      "normal_p95": 62,
+      "investigation_threshold": 78,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-LAH-057",
+      "metric": "packet_loss_percent",
+      "normal_p50": 0,
+      "normal_p95": 0.5,
+      "investigation_threshold": 2.0,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-LAH-057",
+      "metric": "bgp_updates_per_minute",
+      "normal_p50": 80,
+      "normal_p95": 500,
+      "investigation_threshold": 1500,
+      "window": "rolling 30-day baseline"
+    },
+    {
+      "device_or_interface": "RR-LAH-057",
+      "metric": "memory_percent",
+      "normal_p50": 34,
+      "normal_p95": 62,
+      "investigation_threshold": 78,
+      "window": "rolling 30-day baseline"
+    }
+  ]
+}

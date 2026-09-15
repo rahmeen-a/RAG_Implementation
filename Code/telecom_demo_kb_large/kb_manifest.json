@@ -1,0 +1,34 @@
+{
+  "name": "telecom_demo_kb_large",
+  "version": "2.0",
+  "synthetic": true,
+  "purpose": "RAG/graph simulation for telecom NOC AI-assisted RCA",
+  "document_count": 580,
+  "estimated_chunks_at_450_words": 580,
+  "total_document_words": 107348,
+  "structured_files": [
+    "structured/device_inventory.json",
+    "structured/interface_inventory.json",
+    "structured/topology_edges.json",
+    "structured/services.json",
+    "structured/incidents.json",
+    "structured/changes.json",
+    "structured/alarm_definitions.json",
+    "structured/performance_baselines.json",
+    "structured/known_errors.json",
+    "structured/rca_demo_scenarios.json",
+    "structured/document_catalog.json"
+  ],
+  "document_categories": {
+    "topology_context": 30,
+    "historical_incidents": 120,
+    "postmortems": 60,
+    "runbooks": 60,
+    "known_errors": 60,
+    "vendor_troubleshooting": 60,
+    "alarm_guides": 50,
+    "change_context": 50,
+    "performance_baselines": 50,
+    "site_operations": 40
+  }
+}

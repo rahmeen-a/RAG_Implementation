@@ -1,0 +1,1284 @@
+{
+  "links": [
+    {
+      "link_id": "LNK-00001",
+      "a_interface": "PE-MUL-001-Eth0/0",
+      "z_interface": "PE-MUL-001-Eth1/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00003",
+      "a_interface": "PE-MUL-001-Eth2/0",
+      "z_interface": "PE-MUL-001-Eth3/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00005",
+      "a_interface": "PE-MUL-002-Eth0/0",
+      "z_interface": "PE-MUL-002-Eth1/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00007",
+      "a_interface": "PE-MUL-002-Eth2/0",
+      "z_interface": "PE-MUL-002-Eth3/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00009",
+      "a_interface": "PE-LAH-003-Eth0/0",
+      "z_interface": "PE-LAH-003-Eth1/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00011",
+      "a_interface": "PE-LAH-003-Eth2/0",
+      "z_interface": "PE-LAH-003-Eth3/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00013",
+      "a_interface": "RR-KAR-004-Eth0/0",
+      "z_interface": "RR-KAR-004-Eth1/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00015",
+      "a_interface": "RR-KAR-004-Eth2/0",
+      "z_interface": "RR-KAR-004-Eth3/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00017",
+      "a_interface": "PE-RAW-005-Eth0/0",
+      "z_interface": "PE-RAW-005-Eth1/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00019",
+      "a_interface": "PE-RAW-005-Eth2/0",
+      "z_interface": "PE-RAW-005-Eth3/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00021",
+      "a_interface": "PE-RAW-006-Eth0/0",
+      "z_interface": "PE-RAW-006-Eth1/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00023",
+      "a_interface": "PE-RAW-006-Eth2/0",
+      "z_interface": "PE-RAW-006-Eth3/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00025",
+      "a_interface": "PE-LAH-007-Eth0/0",
+      "z_interface": "PE-LAH-007-Eth1/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00027",
+      "a_interface": "PE-LAH-007-Eth2/0",
+      "z_interface": "PE-LAH-007-Eth3/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00029",
+      "a_interface": "P-MUL-008-Eth0/0",
+      "z_interface": "P-MUL-008-Eth1/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00031",
+      "a_interface": "P-MUL-008-Eth2/0",
+      "z_interface": "P-MUL-008-Eth3/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00033",
+      "a_interface": "RR-ISL-009-Eth0/0",
+      "z_interface": "RR-ISL-009-Eth1/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00035",
+      "a_interface": "RR-ISL-009-Eth2/0",
+      "z_interface": "RR-ISL-009-Eth3/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00037",
+      "a_interface": "RR-LAH-010-Eth0/0",
+      "z_interface": "RR-LAH-010-Eth1/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00039",
+      "a_interface": "RR-LAH-010-Eth2/0",
+      "z_interface": "RR-LAH-010-Eth3/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00041",
+      "a_interface": "PE-PES-011-Eth0/0",
+      "z_interface": "PE-PES-011-Eth1/0",
+      "capacity": "100G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00043",
+      "a_interface": "PE-PES-011-Eth2/0",
+      "z_interface": "PE-PES-011-Eth3/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00045",
+      "a_interface": "PE-ISL-012-Eth0/0",
+      "z_interface": "PE-ISL-012-Eth1/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00047",
+      "a_interface": "PE-ISL-012-Eth2/0",
+      "z_interface": "PE-ISL-012-Eth3/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00049",
+      "a_interface": "P-MUL-013-Eth0/0",
+      "z_interface": "P-MUL-013-Eth1/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00051",
+      "a_interface": "P-MUL-013-Eth2/0",
+      "z_interface": "P-MUL-013-Eth3/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00053",
+      "a_interface": "EDGE-RAW-014-Eth0/0",
+      "z_interface": "EDGE-RAW-014-Eth1/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00055",
+      "a_interface": "EDGE-RAW-014-Eth2/0",
+      "z_interface": "EDGE-RAW-014-Eth3/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00057",
+      "a_interface": "PE-ISL-015-Eth0/0",
+      "z_interface": "PE-ISL-015-Eth1/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00059",
+      "a_interface": "PE-ISL-015-Eth2/0",
+      "z_interface": "PE-ISL-015-Eth3/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00061",
+      "a_interface": "PE-ISL-016-Eth0/0",
+      "z_interface": "PE-ISL-016-Eth1/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00063",
+      "a_interface": "PE-ISL-016-Eth2/0",
+      "z_interface": "PE-ISL-016-Eth3/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00065",
+      "a_interface": "PE-MUL-017-Eth0/0",
+      "z_interface": "PE-MUL-017-Eth1/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00067",
+      "a_interface": "PE-MUL-017-Eth2/0",
+      "z_interface": "PE-MUL-017-Eth3/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00069",
+      "a_interface": "PE-ISL-018-Eth0/0",
+      "z_interface": "PE-ISL-018-Eth1/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00071",
+      "a_interface": "PE-ISL-018-Eth2/0",
+      "z_interface": "PE-ISL-018-Eth3/0",
+      "capacity": "100G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00073",
+      "a_interface": "BNG-FAI-019-Eth0/0",
+      "z_interface": "BNG-FAI-019-Eth1/0",
+      "capacity": "100G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00075",
+      "a_interface": "BNG-FAI-019-Eth2/0",
+      "z_interface": "BNG-FAI-019-Eth3/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00077",
+      "a_interface": "P-KAR-020-Eth0/0",
+      "z_interface": "P-KAR-020-Eth1/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00079",
+      "a_interface": "P-KAR-020-Eth2/0",
+      "z_interface": "P-KAR-020-Eth3/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00081",
+      "a_interface": "BNG-MUL-021-Eth0/0",
+      "z_interface": "BNG-MUL-021-Eth1/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00083",
+      "a_interface": "BNG-MUL-021-Eth2/0",
+      "z_interface": "BNG-MUL-021-Eth3/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00085",
+      "a_interface": "EDGE-RAW-022-Eth0/0",
+      "z_interface": "EDGE-RAW-022-Eth1/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00087",
+      "a_interface": "EDGE-RAW-022-Eth2/0",
+      "z_interface": "EDGE-RAW-022-Eth3/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00089",
+      "a_interface": "RR-PES-023-Eth0/0",
+      "z_interface": "RR-PES-023-Eth1/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00091",
+      "a_interface": "RR-PES-023-Eth2/0",
+      "z_interface": "RR-PES-023-Eth3/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00093",
+      "a_interface": "PE-ISL-024-Eth0/0",
+      "z_interface": "PE-ISL-024-Eth1/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00095",
+      "a_interface": "PE-ISL-024-Eth2/0",
+      "z_interface": "PE-ISL-024-Eth3/0",
+      "capacity": "100G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00097",
+      "a_interface": "PE-MUL-025-Eth0/0",
+      "z_interface": "PE-MUL-025-Eth1/0",
+      "capacity": "100G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00099",
+      "a_interface": "PE-MUL-025-Eth2/0",
+      "z_interface": "PE-MUL-025-Eth3/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00101",
+      "a_interface": "PE-LAH-026-Eth0/0",
+      "z_interface": "PE-LAH-026-Eth1/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00103",
+      "a_interface": "PE-LAH-026-Eth2/0",
+      "z_interface": "PE-LAH-026-Eth3/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00105",
+      "a_interface": "P-ISL-027-Eth0/0",
+      "z_interface": "P-ISL-027-Eth1/0",
+      "capacity": "100G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00107",
+      "a_interface": "P-ISL-027-Eth2/0",
+      "z_interface": "P-ISL-027-Eth3/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00109",
+      "a_interface": "PE-ISL-028-Eth0/0",
+      "z_interface": "PE-ISL-028-Eth1/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00111",
+      "a_interface": "PE-ISL-028-Eth2/0",
+      "z_interface": "PE-ISL-028-Eth3/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00113",
+      "a_interface": "BNG-LAH-029-Eth0/0",
+      "z_interface": "BNG-LAH-029-Eth1/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00115",
+      "a_interface": "BNG-LAH-029-Eth2/0",
+      "z_interface": "BNG-LAH-029-Eth3/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00117",
+      "a_interface": "EDGE-RAW-030-Eth0/0",
+      "z_interface": "EDGE-RAW-030-Eth1/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00119",
+      "a_interface": "EDGE-RAW-030-Eth2/0",
+      "z_interface": "EDGE-RAW-030-Eth3/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00121",
+      "a_interface": "EDGE-MUL-031-Eth0/0",
+      "z_interface": "EDGE-MUL-031-Eth1/0",
+      "capacity": "100G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00123",
+      "a_interface": "EDGE-MUL-031-Eth2/0",
+      "z_interface": "EDGE-MUL-031-Eth3/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00125",
+      "a_interface": "P-PES-032-Eth0/0",
+      "z_interface": "P-PES-032-Eth1/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00127",
+      "a_interface": "P-PES-032-Eth2/0",
+      "z_interface": "P-PES-032-Eth3/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00129",
+      "a_interface": "EDGE-ISL-033-Eth0/0",
+      "z_interface": "EDGE-ISL-033-Eth1/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00131",
+      "a_interface": "EDGE-ISL-033-Eth2/0",
+      "z_interface": "EDGE-ISL-033-Eth3/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00133",
+      "a_interface": "PE-FAI-034-Eth0/0",
+      "z_interface": "PE-FAI-034-Eth1/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00135",
+      "a_interface": "PE-FAI-034-Eth2/0",
+      "z_interface": "PE-FAI-034-Eth3/0",
+      "capacity": "100G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00137",
+      "a_interface": "P-LAH-035-Eth0/0",
+      "z_interface": "P-LAH-035-Eth1/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00139",
+      "a_interface": "P-LAH-035-Eth2/0",
+      "z_interface": "P-LAH-035-Eth3/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00141",
+      "a_interface": "RR-LAH-036-Eth0/0",
+      "z_interface": "RR-LAH-036-Eth1/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00143",
+      "a_interface": "RR-LAH-036-Eth2/0",
+      "z_interface": "RR-LAH-036-Eth3/0",
+      "capacity": "100G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00145",
+      "a_interface": "PE-PES-037-Eth0/0",
+      "z_interface": "PE-PES-037-Eth1/0",
+      "capacity": "100G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00147",
+      "a_interface": "PE-PES-037-Eth2/0",
+      "z_interface": "PE-PES-037-Eth3/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00149",
+      "a_interface": "P-RAW-038-Eth0/0",
+      "z_interface": "P-RAW-038-Eth1/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00151",
+      "a_interface": "P-RAW-038-Eth2/0",
+      "z_interface": "P-RAW-038-Eth3/0",
+      "capacity": "100G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00153",
+      "a_interface": "BNG-PES-039-Eth0/0",
+      "z_interface": "BNG-PES-039-Eth1/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00155",
+      "a_interface": "BNG-PES-039-Eth2/0",
+      "z_interface": "BNG-PES-039-Eth3/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00157",
+      "a_interface": "PE-MUL-040-Eth0/0",
+      "z_interface": "PE-MUL-040-Eth1/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00159",
+      "a_interface": "PE-MUL-040-Eth2/0",
+      "z_interface": "PE-MUL-040-Eth3/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00161",
+      "a_interface": "RR-LAH-041-Eth0/0",
+      "z_interface": "RR-LAH-041-Eth1/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00163",
+      "a_interface": "RR-LAH-041-Eth2/0",
+      "z_interface": "RR-LAH-041-Eth3/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00165",
+      "a_interface": "PE-RAW-042-Eth0/0",
+      "z_interface": "PE-RAW-042-Eth1/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00167",
+      "a_interface": "PE-RAW-042-Eth2/0",
+      "z_interface": "PE-RAW-042-Eth3/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00169",
+      "a_interface": "P-KAR-043-Eth0/0",
+      "z_interface": "P-KAR-043-Eth1/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00171",
+      "a_interface": "P-KAR-043-Eth2/0",
+      "z_interface": "P-KAR-043-Eth3/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00173",
+      "a_interface": "BNG-RAW-044-Eth0/0",
+      "z_interface": "BNG-RAW-044-Eth1/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00175",
+      "a_interface": "BNG-RAW-044-Eth2/0",
+      "z_interface": "BNG-RAW-044-Eth3/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00177",
+      "a_interface": "RR-LAH-045-Eth0/0",
+      "z_interface": "RR-LAH-045-Eth1/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00179",
+      "a_interface": "RR-LAH-045-Eth2/0",
+      "z_interface": "RR-LAH-045-Eth3/0",
+      "capacity": "100G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00181",
+      "a_interface": "PE-PES-046-Eth0/0",
+      "z_interface": "PE-PES-046-Eth1/0",
+      "capacity": "100G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00183",
+      "a_interface": "PE-PES-046-Eth2/0",
+      "z_interface": "PE-PES-046-Eth3/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00185",
+      "a_interface": "EDGE-PES-047-Eth0/0",
+      "z_interface": "EDGE-PES-047-Eth1/0",
+      "capacity": "100G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00187",
+      "a_interface": "EDGE-PES-047-Eth2/0",
+      "z_interface": "EDGE-PES-047-Eth3/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00189",
+      "a_interface": "EDGE-RAW-048-Eth0/0",
+      "z_interface": "EDGE-RAW-048-Eth1/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00191",
+      "a_interface": "EDGE-RAW-048-Eth2/0",
+      "z_interface": "EDGE-RAW-048-Eth3/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00193",
+      "a_interface": "EDGE-MUL-049-Eth0/0",
+      "z_interface": "EDGE-MUL-049-Eth1/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00195",
+      "a_interface": "EDGE-MUL-049-Eth2/0",
+      "z_interface": "EDGE-MUL-049-Eth3/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00197",
+      "a_interface": "PE-KAR-050-Eth0/0",
+      "z_interface": "PE-KAR-050-Eth1/0",
+      "capacity": "100G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00199",
+      "a_interface": "PE-KAR-050-Eth2/0",
+      "z_interface": "PE-KAR-050-Eth3/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00201",
+      "a_interface": "PE-ISL-051-Eth0/0",
+      "z_interface": "PE-ISL-051-Eth1/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00203",
+      "a_interface": "PE-ISL-051-Eth2/0",
+      "z_interface": "PE-ISL-051-Eth3/0",
+      "capacity": "100G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00205",
+      "a_interface": "BNG-FAI-052-Eth0/0",
+      "z_interface": "BNG-FAI-052-Eth1/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00207",
+      "a_interface": "BNG-FAI-052-Eth2/0",
+      "z_interface": "BNG-FAI-052-Eth3/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00209",
+      "a_interface": "P-PES-053-Eth0/0",
+      "z_interface": "P-PES-053-Eth1/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00211",
+      "a_interface": "P-PES-053-Eth2/0",
+      "z_interface": "P-PES-053-Eth3/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00213",
+      "a_interface": "RR-FAI-054-Eth0/0",
+      "z_interface": "RR-FAI-054-Eth1/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00215",
+      "a_interface": "RR-FAI-054-Eth2/0",
+      "z_interface": "RR-FAI-054-Eth3/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00217",
+      "a_interface": "BNG-KAR-055-Eth0/0",
+      "z_interface": "BNG-KAR-055-Eth1/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00219",
+      "a_interface": "BNG-KAR-055-Eth2/0",
+      "z_interface": "BNG-KAR-055-Eth3/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00221",
+      "a_interface": "RR-KAR-056-Eth0/0",
+      "z_interface": "RR-KAR-056-Eth1/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00223",
+      "a_interface": "RR-KAR-056-Eth2/0",
+      "z_interface": "RR-KAR-056-Eth3/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00225",
+      "a_interface": "RR-LAH-057-Eth0/0",
+      "z_interface": "RR-LAH-057-Eth1/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00227",
+      "a_interface": "RR-LAH-057-Eth2/0",
+      "z_interface": "RR-LAH-057-Eth3/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00229",
+      "a_interface": "P-FAI-058-Eth0/0",
+      "z_interface": "P-FAI-058-Eth1/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00231",
+      "a_interface": "P-FAI-058-Eth2/0",
+      "z_interface": "P-FAI-058-Eth3/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00233",
+      "a_interface": "PE-KAR-059-Eth0/0",
+      "z_interface": "PE-KAR-059-Eth1/0",
+      "capacity": "100G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00235",
+      "a_interface": "PE-KAR-059-Eth2/0",
+      "z_interface": "PE-KAR-059-Eth3/0",
+      "capacity": "100G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00237",
+      "a_interface": "P-PES-060-Eth0/0",
+      "z_interface": "P-PES-060-Eth1/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00239",
+      "a_interface": "P-PES-060-Eth2/0",
+      "z_interface": "P-PES-060-Eth3/0",
+      "capacity": "100G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00241",
+      "a_interface": "PE-LAH-061-Eth0/0",
+      "z_interface": "PE-LAH-061-Eth1/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00243",
+      "a_interface": "PE-LAH-061-Eth2/0",
+      "z_interface": "PE-LAH-061-Eth3/0",
+      "capacity": "100G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00245",
+      "a_interface": "PE-ISL-062-Eth0/0",
+      "z_interface": "PE-ISL-062-Eth1/0",
+      "capacity": "100G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00247",
+      "a_interface": "PE-ISL-062-Eth2/0",
+      "z_interface": "PE-ISL-062-Eth3/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00249",
+      "a_interface": "P-MUL-063-Eth0/0",
+      "z_interface": "P-MUL-063-Eth1/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00251",
+      "a_interface": "P-MUL-063-Eth2/0",
+      "z_interface": "P-MUL-063-Eth3/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00253",
+      "a_interface": "BNG-MUL-064-Eth0/0",
+      "z_interface": "BNG-MUL-064-Eth1/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00255",
+      "a_interface": "BNG-MUL-064-Eth2/0",
+      "z_interface": "BNG-MUL-064-Eth3/0",
+      "capacity": "100G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00257",
+      "a_interface": "RR-PES-065-Eth0/0",
+      "z_interface": "RR-PES-065-Eth1/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00259",
+      "a_interface": "RR-PES-065-Eth2/0",
+      "z_interface": "RR-PES-065-Eth3/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00261",
+      "a_interface": "BNG-RAW-066-Eth0/0",
+      "z_interface": "BNG-RAW-066-Eth1/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00263",
+      "a_interface": "BNG-RAW-066-Eth2/0",
+      "z_interface": "BNG-RAW-066-Eth3/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00265",
+      "a_interface": "EDGE-LAH-067-Eth0/0",
+      "z_interface": "EDGE-LAH-067-Eth1/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00267",
+      "a_interface": "EDGE-LAH-067-Eth2/0",
+      "z_interface": "EDGE-LAH-067-Eth3/0",
+      "capacity": "100G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00269",
+      "a_interface": "PE-FAI-068-Eth0/0",
+      "z_interface": "PE-FAI-068-Eth1/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00271",
+      "a_interface": "PE-FAI-068-Eth2/0",
+      "z_interface": "PE-FAI-068-Eth3/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00273",
+      "a_interface": "BNG-ISL-069-Eth0/0",
+      "z_interface": "BNG-ISL-069-Eth1/0",
+      "capacity": "100G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00275",
+      "a_interface": "BNG-ISL-069-Eth2/0",
+      "z_interface": "BNG-ISL-069-Eth3/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00277",
+      "a_interface": "BNG-LAH-070-Eth0/0",
+      "z_interface": "BNG-LAH-070-Eth1/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00279",
+      "a_interface": "BNG-LAH-070-Eth2/0",
+      "z_interface": "BNG-LAH-070-Eth3/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00281",
+      "a_interface": "EDGE-PES-071-Eth0/0",
+      "z_interface": "EDGE-PES-071-Eth1/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00283",
+      "a_interface": "EDGE-PES-071-Eth2/0",
+      "z_interface": "EDGE-PES-071-Eth3/0",
+      "capacity": "40G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00285",
+      "a_interface": "EDGE-KAR-072-Eth0/0",
+      "z_interface": "EDGE-KAR-072-Eth1/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00287",
+      "a_interface": "EDGE-KAR-072-Eth2/0",
+      "z_interface": "EDGE-KAR-072-Eth3/0",
+      "capacity": "10G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00289",
+      "a_interface": "PE-KAR-073-Eth0/0",
+      "z_interface": "PE-KAR-073-Eth1/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00291",
+      "a_interface": "PE-KAR-073-Eth2/0",
+      "z_interface": "PE-KAR-073-Eth3/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00293",
+      "a_interface": "PE-KAR-074-Eth0/0",
+      "z_interface": "PE-KAR-074-Eth1/0",
+      "capacity": "100G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00295",
+      "a_interface": "PE-KAR-074-Eth2/0",
+      "z_interface": "PE-KAR-074-Eth3/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00297",
+      "a_interface": "PE-MUL-075-Eth0/0",
+      "z_interface": "PE-MUL-075-Eth1/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00299",
+      "a_interface": "PE-MUL-075-Eth2/0",
+      "z_interface": "PE-MUL-075-Eth3/0",
+      "capacity": "100G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00301",
+      "a_interface": "P-ISL-076-Eth0/0",
+      "z_interface": "P-ISL-076-Eth1/0",
+      "capacity": "100G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00303",
+      "a_interface": "P-ISL-076-Eth2/0",
+      "z_interface": "P-ISL-076-Eth3/0",
+      "capacity": "10G",
+      "transport": "OTN",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00305",
+      "a_interface": "PE-LAH-077-Eth0/0",
+      "z_interface": "PE-LAH-077-Eth1/0",
+      "capacity": "40G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00307",
+      "a_interface": "PE-LAH-077-Eth2/0",
+      "z_interface": "PE-LAH-077-Eth3/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00309",
+      "a_interface": "PE-FAI-078-Eth0/0",
+      "z_interface": "PE-FAI-078-Eth1/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00311",
+      "a_interface": "PE-FAI-078-Eth2/0",
+      "z_interface": "PE-FAI-078-Eth3/0",
+      "capacity": "10G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00313",
+      "a_interface": "PE-FAI-079-Eth0/0",
+      "z_interface": "PE-FAI-079-Eth1/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00315",
+      "a_interface": "PE-FAI-079-Eth2/0",
+      "z_interface": "PE-FAI-079-Eth3/0",
+      "capacity": "100G",
+      "transport": "Ethernet",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00317",
+      "a_interface": "P-LAH-080-Eth0/0",
+      "z_interface": "P-LAH-080-Eth1/0",
+      "capacity": "40G",
+      "transport": "DWDM",
+      "status": "active"
+    },
+    {
+      "link_id": "LNK-00319",
+      "a_interface": "P-LAH-080-Eth2/0",
+      "z_interface": "P-LAH-080-Eth3/0",
+      "capacity": "100G",
+      "transport": "DWDM",
+      "status": "active"
+    }
+  ]
+}
