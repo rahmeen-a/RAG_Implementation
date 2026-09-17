@@ -27,3 +27,19 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Chroma / generated vector databases
+Code/vector_db/
+Code/preprocessed_db/
+
+# Environment variables
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
